@@ -1,5 +1,44 @@
+import re
+import os
 import json
 from pprint import pprint as pp
+
+
+# meter_names = []
+# for i in data['objects']:
+#     attrib = i['attributes']
+#     if 'name' in attrib:
+#         if attrib['name'].startswith('trip_node_meter'):
+#             meter_names.append(attrib['name'])
+
+
+def create_players():
+
+    players =  open ("../glm/player_objects.glm","w")
+    with open ("../json/gld_basecase.json", 'r') as file:
+        data = json.load(file)
+    counter = 1
+    
+    for i in data['objects']:
+        if 'name' in i['attributes']:
+            if i['attributes']['name'].startswith('wh_'):
+                node = (re.findall(r'\d+',i['attributes']['name']))[0]
+                print(f"object player {{\n\tname wd_{node}_{counter}.csv;\n\tfile '../wd_files/wd_{counter}.csv';\n}};",file=players)
+                i['attributes']['water_demand'] = f"wd_{node}_{counter}.value"
+                counter += 1
+    with open('gld_basecase.json','w') as f:
+        json.dump(data,f, indent=4)
+    os.system('json2glm -p gld_basecase.json > test.glm')
+    
+    
+                
+    
+
+    
+
+
+
+create_players()
 
 # with open ("../json/gld_basecase.json", 'r') as file:
 #     data = json.load(file)
@@ -67,20 +106,20 @@ from pprint import pprint as pp
 #     j += 1
 
 
-with open ("../json/downstream_objects.json", 'r') as file:
-    data = json.load(file)
+# with open ("../json/downstream_objects.json", 'r') as file:
+#     data = json.load(file)
 
-meter_names = []
-for i in data['objects']:
-    attrib = i['attributes']
-    if 'name' in attrib:
-        if attrib['name'].startswith('trip_node_meter'):
-            meter_names.append(attrib['name'])
+# meter_names = []
+# for i in data['objects']:
+#     attrib = i['attributes']
+#     if 'name' in attrib:
+#         if attrib['name'].startswith('trip_node_meter'):
+#             meter_names.append(attrib['name'])
 
-properties = []
+# properties = []
 
-for i in range(len(meter_names)):
-    properties.append(f'{meter_names[i]}:measured_real_power,')
+# for i in range(len(meter_names)):
+#     properties.append(f'{meter_names[i]}:measured_real_power,')
 
 
-print(' '.join(str(i) for i in properties))
+# print(' '.join(str(i) for i in properties))
