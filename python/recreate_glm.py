@@ -3,15 +3,6 @@ import os
 import json
 from pprint import pprint as pp
 
-
-# meter_names = []
-# for i in data['objects']:
-#     attrib = i['attributes']
-#     if 'name' in attrib:
-#         if attrib['name'].startswith('trip_node_meter'):
-#             meter_names.append(attrib['name'])
-
-
 def create_players():
 
     players =  open ("../glm/player_objects.glm","w")
@@ -23,103 +14,18 @@ def create_players():
         if 'name' in i['attributes']:
             if i['attributes']['name'].startswith('wh_'):
                 node = (re.findall(r'\d+',i['attributes']['name']))[0]
-                print(f"object player {{\n\tname wd_{node}_{counter}.csv;\n\tfile '../wd_files/wd_{counter}.csv';\n}};",file=players)
+                print(f"object player {{\n\tname wd_{node}_{counter};\n\tfile '../wd_files/wd_{counter}.csv';\n}};",file=players)
                 i['attributes']['water_demand'] = f"wd_{node}_{counter}.value"
                 counter += 1
-    with open('gld_basecase.json','w') as f:
+    return data
+
+
+def wr_files(data):
+    with open('gld_test_basecase.json','w') as f:
         json.dump(data,f, indent=4)
     os.system('json2glm -p gld_basecase.json > test.glm')
-    
-    
-                
-    
 
-    
-
-
-
-create_players()
-
-# with open ("../json/gld_basecase.json", 'r') as file:
-#     data = json.load(file)
-
-# houses = []
-# tl_names = []
-# tl_from = []
-# to_tl = []
-# phases = []
-# config = []
-# trip_node_phases = []
-# trip_nodes = []
-# for i in data['objects']:
-#     attrib = i['attributes']
-#     if 'name' in attrib:
-#         if attrib['name'].startswith('house'):
-#             houses.append(attrib['name'])
-#         if attrib['name'].startswith('trip_line'):
-#             tl_names.append(attrib['name'])
-#             tl_from.append(attrib['from'])
-#             to_tl.append(attrib['to'])
-#             phases.append(attrib['phases'])
-#             config.append(attrib['configuration'])
-#         if attrib['name'].startswith('trip_node'):
-#             trip_nodes.append(attrib['name'])
-#             trip_node_phases.append(attrib['phases'])
-
-
-# j = 0
-# k = 0
-# for i in range(len(houses)):
-#     if j > int(960/len(trip_nodes)):
-#         k += 1
-#         j = 1
-#     if 'A' in houses[i]:
-#         print(f"object triplex_meter {{\n\tname trip_node_meter_{i};\n\tphases AS;\n\tnominal_voltage 120.0;\n}};")
-#     if 'B' in houses[i]:
-#         print(f"object triplex_meter {{\n\tname trip_node_meter_{i};\n\tphases BS;\n\tnominal_voltage 120.0;\n}};")
-#     if 'C' in houses[i]:
-#         print(f"object triplex_meter {{\n\tname trip_node_meter_{i};\n\tphases CS;\n\tnominal_voltage 120.0;\n}};")
-#     j +=1
-
-
-# j = 0
-# k = 0
-# for i in range(len(houses)):
-#     if j > int(960/len(trip_nodes)):
-#         k += 1
-#         j = 1
-#     if 'A' in tl_from[i]:
-#         print(f"object triplex_line {{\n\tname {tl_names[i]};\n\tfrom {tl_from[i]};\n\tto trip_node_meter_{i};\n\tphases AS;\n\tlength 10;\n\tconfiguration {config[i]};\n}}\n")
-#     if 'B' in tl_from[i]:
-#         print(f"object triplex_line {{\n\tname {tl_names[i]};\n\tfrom {tl_from[i]};\n\tto trip_node_meter_{i};\n\tphases BS;\n\tlength 10;\n\tconfiguration {config[i]};\n}}\n")
-#     if 'C' in tl_from[i]:
-#         print(f"object triplex_line {{\n\tname {tl_names[i]};\n\tfrom {tl_from[i]};\n\tto trip_node_meter_{i};\n\tphases CS;\n\tlength 10;\n\tconfiguration {config[i]};\n}}\n")
-
-
-# j = 0
-# k = 0
-# for i in range(len(houses)):
-#     if j > int(960/len(trip_nodes)):
-#         k += 1
-#         j = 1
-#     print(f"object house {{\n\tname {houses[i]};\n\tparent trip_node_meter_{i};\n}};\n")
-#     j += 1
-
-
-# with open ("../json/downstream_objects.json", 'r') as file:
-#     data = json.load(file)
-
-# meter_names = []
-# for i in data['objects']:
-#     attrib = i['attributes']
-#     if 'name' in attrib:
-#         if attrib['name'].startswith('trip_node_meter'):
-#             meter_names.append(attrib['name'])
-
-# properties = []
-
-# for i in range(len(meter_names)):
-#     properties.append(f'{meter_names[i]}:measured_real_power,')
-
-
-# print(' '.join(str(i) for i in properties))
+def main():
+    data = create_players()
+    wr_files(data)
+main()

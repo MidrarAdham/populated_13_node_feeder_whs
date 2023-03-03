@@ -1,3840 +1,1744 @@
 object player {
-	name wd_652_1.csv;
+	name wd_652_1;
 	file '../wd_files/wd_1.csv';
 };
 object player {
-	name wd_652_2.csv;
+	name wd_652_2;
 	file '../wd_files/wd_2.csv';
 };
 object player {
-	name wd_652_3.csv;
+	name wd_652_3;
 	file '../wd_files/wd_3.csv';
 };
 object player {
-	name wd_652_4.csv;
+	name wd_652_4;
 	file '../wd_files/wd_4.csv';
 };
 object player {
-	name wd_652_5.csv;
+	name wd_652_5;
 	file '../wd_files/wd_5.csv';
 };
 object player {
-	name wd_652_6.csv;
+	name wd_652_6;
 	file '../wd_files/wd_6.csv';
 };
 object player {
-	name wd_652_7.csv;
+	name wd_652_7;
 	file '../wd_files/wd_7.csv';
 };
 object player {
-	name wd_652_8.csv;
+	name wd_652_8;
 	file '../wd_files/wd_8.csv';
 };
 object player {
-	name wd_652_9.csv;
+	name wd_652_9;
 	file '../wd_files/wd_9.csv';
 };
 object player {
-	name wd_652_10.csv;
+	name wd_652_10;
 	file '../wd_files/wd_10.csv';
 };
 object player {
-	name wd_652_11.csv;
+	name wd_652_11;
 	file '../wd_files/wd_11.csv';
 };
 object player {
-	name wd_652_12.csv;
+	name wd_652_12;
 	file '../wd_files/wd_12.csv';
 };
 object player {
-	name wd_652_13.csv;
+	name wd_652_13;
 	file '../wd_files/wd_13.csv';
 };
 object player {
-	name wd_652_14.csv;
+	name wd_652_14;
 	file '../wd_files/wd_14.csv';
 };
 object player {
-	name wd_652_15.csv;
+	name wd_652_15;
 	file '../wd_files/wd_15.csv';
 };
 object player {
-	name wd_652_16.csv;
+	name wd_652_16;
 	file '../wd_files/wd_16.csv';
 };
 object player {
-	name wd_652_17.csv;
+	name wd_652_17;
 	file '../wd_files/wd_17.csv';
 };
 object player {
-	name wd_652_18.csv;
+	name wd_652_18;
 	file '../wd_files/wd_18.csv';
 };
 object player {
-	name wd_652_19.csv;
+	name wd_652_19;
 	file '../wd_files/wd_19.csv';
 };
 object player {
-	name wd_652_20.csv;
+	name wd_652_20;
 	file '../wd_files/wd_20.csv';
 };
 object player {
-	name wd_652_21.csv;
+	name wd_652_21;
 	file '../wd_files/wd_21.csv';
 };
 object player {
-	name wd_652_22.csv;
+	name wd_652_22;
 	file '../wd_files/wd_22.csv';
 };
 object player {
-	name wd_652_23.csv;
+	name wd_652_23;
 	file '../wd_files/wd_23.csv';
 };
 object player {
-	name wd_652_24.csv;
+	name wd_652_24;
 	file '../wd_files/wd_24.csv';
 };
 object player {
-	name wd_652_25.csv;
+	name wd_652_25;
 	file '../wd_files/wd_25.csv';
 };
 object player {
-	name wd_652_26.csv;
+	name wd_652_26;
 	file '../wd_files/wd_26.csv';
 };
 object player {
-	name wd_652_27.csv;
+	name wd_652_27;
 	file '../wd_files/wd_27.csv';
 };
 object player {
-	name wd_652_28.csv;
+	name wd_652_28;
 	file '../wd_files/wd_28.csv';
 };
 object player {
-	name wd_652_29.csv;
+	name wd_652_29;
 	file '../wd_files/wd_29.csv';
 };
 object player {
-	name wd_652_30.csv;
+	name wd_652_30;
 	file '../wd_files/wd_30.csv';
 };
 object player {
-	name wd_652_31.csv;
+	name wd_652_31;
 	file '../wd_files/wd_31.csv';
 };
 object player {
-	name wd_652_32.csv;
+	name wd_652_32;
 	file '../wd_files/wd_32.csv';
 };
 object player {
-	name wd_652_33.csv;
+	name wd_652_33;
 	file '../wd_files/wd_33.csv';
 };
 object player {
-	name wd_652_34.csv;
+	name wd_652_34;
 	file '../wd_files/wd_34.csv';
 };
 object player {
-	name wd_652_35.csv;
+	name wd_652_35;
 	file '../wd_files/wd_35.csv';
 };
 object player {
-	name wd_652_36.csv;
+	name wd_652_36;
 	file '../wd_files/wd_36.csv';
 };
 object player {
-	name wd_652_37.csv;
+	name wd_652_37;
 	file '../wd_files/wd_37.csv';
 };
 object player {
-	name wd_652_38.csv;
+	name wd_652_38;
 	file '../wd_files/wd_38.csv';
 };
 object player {
-	name wd_652_39.csv;
+	name wd_652_39;
 	file '../wd_files/wd_39.csv';
 };
 object player {
-	name wd_652_40.csv;
+	name wd_652_40;
 	file '../wd_files/wd_40.csv';
 };
 object player {
-	name wd_611_41.csv;
+	name wd_611_41;
 	file '../wd_files/wd_41.csv';
 };
 object player {
-	name wd_611_42.csv;
+	name wd_611_42;
 	file '../wd_files/wd_42.csv';
 };
 object player {
-	name wd_611_43.csv;
+	name wd_611_43;
 	file '../wd_files/wd_43.csv';
 };
 object player {
-	name wd_611_44.csv;
+	name wd_611_44;
 	file '../wd_files/wd_44.csv';
 };
 object player {
-	name wd_611_45.csv;
+	name wd_611_45;
 	file '../wd_files/wd_45.csv';
 };
 object player {
-	name wd_611_46.csv;
+	name wd_611_46;
 	file '../wd_files/wd_46.csv';
 };
 object player {
-	name wd_611_47.csv;
+	name wd_611_47;
 	file '../wd_files/wd_47.csv';
 };
 object player {
-	name wd_611_48.csv;
+	name wd_611_48;
 	file '../wd_files/wd_48.csv';
 };
 object player {
-	name wd_611_49.csv;
+	name wd_611_49;
 	file '../wd_files/wd_49.csv';
 };
 object player {
-	name wd_611_50.csv;
+	name wd_611_50;
 	file '../wd_files/wd_50.csv';
 };
 object player {
-	name wd_611_51.csv;
+	name wd_611_51;
 	file '../wd_files/wd_51.csv';
 };
 object player {
-	name wd_611_52.csv;
+	name wd_611_52;
 	file '../wd_files/wd_52.csv';
 };
 object player {
-	name wd_611_53.csv;
+	name wd_611_53;
 	file '../wd_files/wd_53.csv';
 };
 object player {
-	name wd_611_54.csv;
+	name wd_611_54;
 	file '../wd_files/wd_54.csv';
 };
 object player {
-	name wd_611_55.csv;
+	name wd_611_55;
 	file '../wd_files/wd_55.csv';
 };
 object player {
-	name wd_611_56.csv;
+	name wd_611_56;
 	file '../wd_files/wd_56.csv';
 };
 object player {
-	name wd_611_57.csv;
+	name wd_611_57;
 	file '../wd_files/wd_57.csv';
 };
 object player {
-	name wd_611_58.csv;
+	name wd_611_58;
 	file '../wd_files/wd_58.csv';
 };
 object player {
-	name wd_611_59.csv;
+	name wd_611_59;
 	file '../wd_files/wd_59.csv';
 };
 object player {
-	name wd_611_60.csv;
+	name wd_611_60;
 	file '../wd_files/wd_60.csv';
 };
 object player {
-	name wd_611_61.csv;
+	name wd_611_61;
 	file '../wd_files/wd_61.csv';
 };
 object player {
-	name wd_611_62.csv;
+	name wd_611_62;
 	file '../wd_files/wd_62.csv';
 };
 object player {
-	name wd_611_63.csv;
+	name wd_611_63;
 	file '../wd_files/wd_63.csv';
 };
 object player {
-	name wd_611_64.csv;
+	name wd_611_64;
 	file '../wd_files/wd_64.csv';
 };
 object player {
-	name wd_611_65.csv;
+	name wd_611_65;
 	file '../wd_files/wd_65.csv';
 };
 object player {
-	name wd_611_66.csv;
+	name wd_611_66;
 	file '../wd_files/wd_66.csv';
 };
 object player {
-	name wd_611_67.csv;
+	name wd_611_67;
 	file '../wd_files/wd_67.csv';
 };
 object player {
-	name wd_611_68.csv;
+	name wd_611_68;
 	file '../wd_files/wd_68.csv';
 };
 object player {
-	name wd_611_69.csv;
+	name wd_611_69;
 	file '../wd_files/wd_69.csv';
 };
 object player {
-	name wd_611_70.csv;
+	name wd_611_70;
 	file '../wd_files/wd_70.csv';
 };
 object player {
-	name wd_611_71.csv;
+	name wd_611_71;
 	file '../wd_files/wd_71.csv';
 };
 object player {
-	name wd_611_72.csv;
+	name wd_611_72;
 	file '../wd_files/wd_72.csv';
 };
 object player {
-	name wd_611_73.csv;
+	name wd_611_73;
 	file '../wd_files/wd_73.csv';
 };
 object player {
-	name wd_611_74.csv;
+	name wd_611_74;
 	file '../wd_files/wd_74.csv';
 };
 object player {
-	name wd_611_75.csv;
+	name wd_611_75;
 	file '../wd_files/wd_75.csv';
 };
 object player {
-	name wd_611_76.csv;
+	name wd_611_76;
 	file '../wd_files/wd_76.csv';
 };
 object player {
-	name wd_611_77.csv;
+	name wd_611_77;
 	file '../wd_files/wd_77.csv';
 };
 object player {
-	name wd_611_78.csv;
+	name wd_611_78;
 	file '../wd_files/wd_78.csv';
 };
 object player {
-	name wd_611_79.csv;
+	name wd_611_79;
 	file '../wd_files/wd_79.csv';
 };
 object player {
-	name wd_611_80.csv;
+	name wd_611_80;
 	file '../wd_files/wd_80.csv';
 };
 object player {
-	name wd_684_81.csv;
+	name wd_684_81;
 	file '../wd_files/wd_81.csv';
 };
 object player {
-	name wd_684_82.csv;
+	name wd_684_82;
 	file '../wd_files/wd_82.csv';
 };
 object player {
-	name wd_684_83.csv;
+	name wd_684_83;
 	file '../wd_files/wd_83.csv';
 };
 object player {
-	name wd_684_84.csv;
+	name wd_684_84;
 	file '../wd_files/wd_84.csv';
 };
 object player {
-	name wd_684_85.csv;
+	name wd_684_85;
 	file '../wd_files/wd_85.csv';
 };
 object player {
-	name wd_684_86.csv;
+	name wd_684_86;
 	file '../wd_files/wd_86.csv';
 };
 object player {
-	name wd_684_87.csv;
+	name wd_684_87;
 	file '../wd_files/wd_87.csv';
 };
 object player {
-	name wd_684_88.csv;
+	name wd_684_88;
 	file '../wd_files/wd_88.csv';
 };
 object player {
-	name wd_684_89.csv;
+	name wd_684_89;
 	file '../wd_files/wd_89.csv';
 };
 object player {
-	name wd_684_90.csv;
+	name wd_684_90;
 	file '../wd_files/wd_90.csv';
 };
 object player {
-	name wd_684_91.csv;
+	name wd_684_91;
 	file '../wd_files/wd_91.csv';
 };
 object player {
-	name wd_684_92.csv;
+	name wd_684_92;
 	file '../wd_files/wd_92.csv';
 };
 object player {
-	name wd_684_93.csv;
+	name wd_684_93;
 	file '../wd_files/wd_93.csv';
 };
 object player {
-	name wd_684_94.csv;
+	name wd_684_94;
 	file '../wd_files/wd_94.csv';
 };
 object player {
-	name wd_684_95.csv;
+	name wd_684_95;
 	file '../wd_files/wd_95.csv';
 };
 object player {
-	name wd_684_96.csv;
+	name wd_684_96;
 	file '../wd_files/wd_96.csv';
 };
 object player {
-	name wd_684_97.csv;
+	name wd_684_97;
 	file '../wd_files/wd_97.csv';
 };
 object player {
-	name wd_684_98.csv;
+	name wd_684_98;
 	file '../wd_files/wd_98.csv';
 };
 object player {
-	name wd_684_99.csv;
+	name wd_684_99;
 	file '../wd_files/wd_99.csv';
 };
 object player {
-	name wd_684_100.csv;
+	name wd_684_100;
 	file '../wd_files/wd_100.csv';
 };
 object player {
-	name wd_684_101.csv;
+	name wd_684_101;
 	file '../wd_files/wd_101.csv';
 };
 object player {
-	name wd_684_102.csv;
+	name wd_684_102;
 	file '../wd_files/wd_102.csv';
 };
 object player {
-	name wd_684_103.csv;
+	name wd_684_103;
 	file '../wd_files/wd_103.csv';
 };
 object player {
-	name wd_684_104.csv;
+	name wd_684_104;
 	file '../wd_files/wd_104.csv';
 };
 object player {
-	name wd_684_105.csv;
+	name wd_684_105;
 	file '../wd_files/wd_105.csv';
 };
 object player {
-	name wd_684_106.csv;
+	name wd_684_106;
 	file '../wd_files/wd_106.csv';
 };
 object player {
-	name wd_684_107.csv;
+	name wd_684_107;
 	file '../wd_files/wd_107.csv';
 };
 object player {
-	name wd_684_108.csv;
+	name wd_684_108;
 	file '../wd_files/wd_108.csv';
 };
 object player {
-	name wd_684_109.csv;
+	name wd_684_109;
 	file '../wd_files/wd_109.csv';
 };
 object player {
-	name wd_684_110.csv;
+	name wd_684_110;
 	file '../wd_files/wd_110.csv';
 };
 object player {
-	name wd_684_111.csv;
+	name wd_684_111;
 	file '../wd_files/wd_111.csv';
 };
 object player {
-	name wd_684_112.csv;
+	name wd_684_112;
 	file '../wd_files/wd_112.csv';
 };
 object player {
-	name wd_684_113.csv;
+	name wd_684_113;
 	file '../wd_files/wd_113.csv';
 };
 object player {
-	name wd_684_114.csv;
+	name wd_684_114;
 	file '../wd_files/wd_114.csv';
 };
 object player {
-	name wd_684_115.csv;
+	name wd_684_115;
 	file '../wd_files/wd_115.csv';
 };
 object player {
-	name wd_684_116.csv;
+	name wd_684_116;
 	file '../wd_files/wd_116.csv';
 };
 object player {
-	name wd_684_117.csv;
+	name wd_684_117;
 	file '../wd_files/wd_117.csv';
 };
 object player {
-	name wd_684_118.csv;
+	name wd_684_118;
 	file '../wd_files/wd_118.csv';
 };
 object player {
-	name wd_684_119.csv;
+	name wd_684_119;
 	file '../wd_files/wd_119.csv';
 };
 object player {
-	name wd_684_120.csv;
+	name wd_684_120;
 	file '../wd_files/wd_120.csv';
 };
 object player {
-	name wd_684_121.csv;
+	name wd_684_121;
 	file '../wd_files/wd_121.csv';
 };
 object player {
-	name wd_684_122.csv;
+	name wd_684_122;
 	file '../wd_files/wd_122.csv';
 };
 object player {
-	name wd_684_123.csv;
+	name wd_684_123;
 	file '../wd_files/wd_123.csv';
 };
 object player {
-	name wd_684_124.csv;
+	name wd_684_124;
 	file '../wd_files/wd_124.csv';
 };
 object player {
-	name wd_684_125.csv;
+	name wd_684_125;
 	file '../wd_files/wd_125.csv';
 };
 object player {
-	name wd_684_126.csv;
+	name wd_684_126;
 	file '../wd_files/wd_126.csv';
 };
 object player {
-	name wd_684_127.csv;
+	name wd_684_127;
 	file '../wd_files/wd_127.csv';
 };
 object player {
-	name wd_684_128.csv;
+	name wd_684_128;
 	file '../wd_files/wd_128.csv';
 };
 object player {
-	name wd_684_129.csv;
+	name wd_684_129;
 	file '../wd_files/wd_129.csv';
 };
 object player {
-	name wd_684_130.csv;
+	name wd_684_130;
 	file '../wd_files/wd_130.csv';
 };
 object player {
-	name wd_684_131.csv;
+	name wd_684_131;
 	file '../wd_files/wd_131.csv';
 };
 object player {
-	name wd_684_132.csv;
+	name wd_684_132;
 	file '../wd_files/wd_132.csv';
 };
 object player {
-	name wd_684_133.csv;
+	name wd_684_133;
 	file '../wd_files/wd_133.csv';
 };
 object player {
-	name wd_684_134.csv;
+	name wd_684_134;
 	file '../wd_files/wd_134.csv';
 };
 object player {
-	name wd_684_135.csv;
+	name wd_684_135;
 	file '../wd_files/wd_135.csv';
 };
 object player {
-	name wd_684_136.csv;
+	name wd_684_136;
 	file '../wd_files/wd_136.csv';
 };
 object player {
-	name wd_684_137.csv;
+	name wd_684_137;
 	file '../wd_files/wd_137.csv';
 };
 object player {
-	name wd_684_138.csv;
+	name wd_684_138;
 	file '../wd_files/wd_138.csv';
 };
 object player {
-	name wd_684_139.csv;
+	name wd_684_139;
 	file '../wd_files/wd_139.csv';
 };
 object player {
-	name wd_684_140.csv;
+	name wd_684_140;
 	file '../wd_files/wd_140.csv';
 };
 object player {
-	name wd_684_141.csv;
+	name wd_684_141;
 	file '../wd_files/wd_141.csv';
 };
 object player {
-	name wd_684_142.csv;
+	name wd_684_142;
 	file '../wd_files/wd_142.csv';
 };
 object player {
-	name wd_684_143.csv;
+	name wd_684_143;
 	file '../wd_files/wd_143.csv';
 };
 object player {
-	name wd_684_144.csv;
+	name wd_684_144;
 	file '../wd_files/wd_144.csv';
 };
 object player {
-	name wd_684_145.csv;
+	name wd_684_145;
 	file '../wd_files/wd_145.csv';
 };
 object player {
-	name wd_684_146.csv;
+	name wd_684_146;
 	file '../wd_files/wd_146.csv';
 };
 object player {
-	name wd_684_147.csv;
+	name wd_684_147;
 	file '../wd_files/wd_147.csv';
 };
 object player {
-	name wd_684_148.csv;
+	name wd_684_148;
 	file '../wd_files/wd_148.csv';
 };
 object player {
-	name wd_684_149.csv;
+	name wd_684_149;
 	file '../wd_files/wd_149.csv';
 };
 object player {
-	name wd_684_150.csv;
+	name wd_684_150;
 	file '../wd_files/wd_150.csv';
 };
 object player {
-	name wd_684_151.csv;
+	name wd_684_151;
 	file '../wd_files/wd_151.csv';
 };
 object player {
-	name wd_684_152.csv;
+	name wd_684_152;
 	file '../wd_files/wd_152.csv';
 };
 object player {
-	name wd_684_153.csv;
+	name wd_684_153;
 	file '../wd_files/wd_153.csv';
 };
 object player {
-	name wd_684_154.csv;
+	name wd_684_154;
 	file '../wd_files/wd_154.csv';
 };
 object player {
-	name wd_684_155.csv;
+	name wd_684_155;
 	file '../wd_files/wd_155.csv';
 };
 object player {
-	name wd_684_156.csv;
+	name wd_684_156;
 	file '../wd_files/wd_156.csv';
 };
 object player {
-	name wd_684_157.csv;
+	name wd_684_157;
 	file '../wd_files/wd_157.csv';
 };
 object player {
-	name wd_684_158.csv;
+	name wd_684_158;
 	file '../wd_files/wd_158.csv';
 };
 object player {
-	name wd_684_159.csv;
+	name wd_684_159;
 	file '../wd_files/wd_159.csv';
 };
 object player {
-	name wd_684_160.csv;
+	name wd_684_160;
 	file '../wd_files/wd_160.csv';
 };
 object player {
-	name wd_645_161.csv;
+	name wd_645_161;
 	file '../wd_files/wd_161.csv';
 };
 object player {
-	name wd_645_162.csv;
+	name wd_645_162;
 	file '../wd_files/wd_162.csv';
 };
 object player {
-	name wd_645_163.csv;
+	name wd_645_163;
 	file '../wd_files/wd_163.csv';
 };
 object player {
-	name wd_645_164.csv;
+	name wd_645_164;
 	file '../wd_files/wd_164.csv';
 };
 object player {
-	name wd_645_165.csv;
+	name wd_645_165;
 	file '../wd_files/wd_165.csv';
 };
 object player {
-	name wd_645_166.csv;
+	name wd_645_166;
 	file '../wd_files/wd_166.csv';
 };
 object player {
-	name wd_645_167.csv;
+	name wd_645_167;
 	file '../wd_files/wd_167.csv';
 };
 object player {
-	name wd_645_168.csv;
+	name wd_645_168;
 	file '../wd_files/wd_168.csv';
 };
 object player {
-	name wd_645_169.csv;
+	name wd_645_169;
 	file '../wd_files/wd_169.csv';
 };
 object player {
-	name wd_645_170.csv;
+	name wd_645_170;
 	file '../wd_files/wd_170.csv';
 };
 object player {
-	name wd_645_171.csv;
+	name wd_645_171;
 	file '../wd_files/wd_171.csv';
 };
 object player {
-	name wd_645_172.csv;
+	name wd_645_172;
 	file '../wd_files/wd_172.csv';
 };
 object player {
-	name wd_645_173.csv;
+	name wd_645_173;
 	file '../wd_files/wd_173.csv';
 };
 object player {
-	name wd_645_174.csv;
+	name wd_645_174;
 	file '../wd_files/wd_174.csv';
 };
 object player {
-	name wd_645_175.csv;
+	name wd_645_175;
 	file '../wd_files/wd_175.csv';
 };
 object player {
-	name wd_645_176.csv;
+	name wd_645_176;
 	file '../wd_files/wd_176.csv';
 };
 object player {
-	name wd_645_177.csv;
+	name wd_645_177;
 	file '../wd_files/wd_177.csv';
 };
 object player {
-	name wd_645_178.csv;
+	name wd_645_178;
 	file '../wd_files/wd_178.csv';
 };
 object player {
-	name wd_645_179.csv;
+	name wd_645_179;
 	file '../wd_files/wd_179.csv';
 };
 object player {
-	name wd_645_180.csv;
+	name wd_645_180;
 	file '../wd_files/wd_180.csv';
 };
 object player {
-	name wd_645_181.csv;
+	name wd_645_181;
 	file '../wd_files/wd_181.csv';
 };
 object player {
-	name wd_645_182.csv;
+	name wd_645_182;
 	file '../wd_files/wd_182.csv';
 };
 object player {
-	name wd_645_183.csv;
+	name wd_645_183;
 	file '../wd_files/wd_183.csv';
 };
 object player {
-	name wd_645_184.csv;
+	name wd_645_184;
 	file '../wd_files/wd_184.csv';
 };
 object player {
-	name wd_645_185.csv;
+	name wd_645_185;
 	file '../wd_files/wd_185.csv';
 };
 object player {
-	name wd_645_186.csv;
+	name wd_645_186;
 	file '../wd_files/wd_186.csv';
 };
 object player {
-	name wd_645_187.csv;
+	name wd_645_187;
 	file '../wd_files/wd_187.csv';
 };
 object player {
-	name wd_645_188.csv;
+	name wd_645_188;
 	file '../wd_files/wd_188.csv';
 };
 object player {
-	name wd_645_189.csv;
+	name wd_645_189;
 	file '../wd_files/wd_189.csv';
 };
 object player {
-	name wd_645_190.csv;
+	name wd_645_190;
 	file '../wd_files/wd_190.csv';
 };
 object player {
-	name wd_645_191.csv;
+	name wd_645_191;
 	file '../wd_files/wd_191.csv';
 };
 object player {
-	name wd_645_192.csv;
+	name wd_645_192;
 	file '../wd_files/wd_192.csv';
 };
 object player {
-	name wd_645_193.csv;
+	name wd_645_193;
 	file '../wd_files/wd_193.csv';
 };
 object player {
-	name wd_645_194.csv;
+	name wd_645_194;
 	file '../wd_files/wd_194.csv';
 };
 object player {
-	name wd_645_195.csv;
+	name wd_645_195;
 	file '../wd_files/wd_195.csv';
 };
 object player {
-	name wd_645_196.csv;
+	name wd_645_196;
 	file '../wd_files/wd_196.csv';
 };
 object player {
-	name wd_645_197.csv;
+	name wd_645_197;
 	file '../wd_files/wd_197.csv';
 };
 object player {
-	name wd_645_198.csv;
+	name wd_645_198;
 	file '../wd_files/wd_198.csv';
 };
 object player {
-	name wd_645_199.csv;
+	name wd_645_199;
 	file '../wd_files/wd_199.csv';
 };
 object player {
-	name wd_645_200.csv;
+	name wd_645_200;
 	file '../wd_files/wd_200.csv';
 };
 object player {
-	name wd_645_201.csv;
+	name wd_645_201;
 	file '../wd_files/wd_201.csv';
 };
 object player {
-	name wd_645_202.csv;
+	name wd_645_202;
 	file '../wd_files/wd_202.csv';
 };
 object player {
-	name wd_645_203.csv;
+	name wd_645_203;
 	file '../wd_files/wd_203.csv';
 };
 object player {
-	name wd_645_204.csv;
+	name wd_645_204;
 	file '../wd_files/wd_204.csv';
 };
 object player {
-	name wd_645_205.csv;
+	name wd_645_205;
 	file '../wd_files/wd_205.csv';
 };
 object player {
-	name wd_645_206.csv;
+	name wd_645_206;
 	file '../wd_files/wd_206.csv';
 };
 object player {
-	name wd_645_207.csv;
+	name wd_645_207;
 	file '../wd_files/wd_207.csv';
 };
 object player {
-	name wd_645_208.csv;
+	name wd_645_208;
 	file '../wd_files/wd_208.csv';
 };
 object player {
-	name wd_645_209.csv;
+	name wd_645_209;
 	file '../wd_files/wd_209.csv';
 };
 object player {
-	name wd_645_210.csv;
+	name wd_645_210;
 	file '../wd_files/wd_210.csv';
 };
 object player {
-	name wd_645_211.csv;
+	name wd_645_211;
 	file '../wd_files/wd_211.csv';
 };
 object player {
-	name wd_645_212.csv;
+	name wd_645_212;
 	file '../wd_files/wd_212.csv';
 };
 object player {
-	name wd_645_213.csv;
+	name wd_645_213;
 	file '../wd_files/wd_213.csv';
 };
 object player {
-	name wd_645_214.csv;
+	name wd_645_214;
 	file '../wd_files/wd_214.csv';
 };
 object player {
-	name wd_645_215.csv;
+	name wd_645_215;
 	file '../wd_files/wd_215.csv';
 };
 object player {
-	name wd_645_216.csv;
+	name wd_645_216;
 	file '../wd_files/wd_216.csv';
 };
 object player {
-	name wd_645_217.csv;
+	name wd_645_217;
 	file '../wd_files/wd_217.csv';
 };
 object player {
-	name wd_645_218.csv;
+	name wd_645_218;
 	file '../wd_files/wd_218.csv';
 };
 object player {
-	name wd_645_219.csv;
+	name wd_645_219;
 	file '../wd_files/wd_219.csv';
 };
 object player {
-	name wd_645_220.csv;
+	name wd_645_220;
 	file '../wd_files/wd_220.csv';
 };
 object player {
-	name wd_645_221.csv;
+	name wd_645_221;
 	file '../wd_files/wd_221.csv';
 };
 object player {
-	name wd_645_222.csv;
+	name wd_645_222;
 	file '../wd_files/wd_222.csv';
 };
 object player {
-	name wd_645_223.csv;
+	name wd_645_223;
 	file '../wd_files/wd_223.csv';
 };
 object player {
-	name wd_645_224.csv;
+	name wd_645_224;
 	file '../wd_files/wd_224.csv';
 };
 object player {
-	name wd_645_225.csv;
+	name wd_645_225;
 	file '../wd_files/wd_225.csv';
 };
 object player {
-	name wd_645_226.csv;
+	name wd_645_226;
 	file '../wd_files/wd_226.csv';
 };
 object player {
-	name wd_645_227.csv;
+	name wd_645_227;
 	file '../wd_files/wd_227.csv';
 };
 object player {
-	name wd_645_228.csv;
+	name wd_645_228;
 	file '../wd_files/wd_228.csv';
 };
 object player {
-	name wd_645_229.csv;
+	name wd_645_229;
 	file '../wd_files/wd_229.csv';
 };
 object player {
-	name wd_645_230.csv;
+	name wd_645_230;
 	file '../wd_files/wd_230.csv';
 };
 object player {
-	name wd_645_231.csv;
+	name wd_645_231;
 	file '../wd_files/wd_231.csv';
 };
 object player {
-	name wd_645_232.csv;
+	name wd_645_232;
 	file '../wd_files/wd_232.csv';
 };
 object player {
-	name wd_645_233.csv;
+	name wd_645_233;
 	file '../wd_files/wd_233.csv';
 };
 object player {
-	name wd_645_234.csv;
+	name wd_645_234;
 	file '../wd_files/wd_234.csv';
 };
 object player {
-	name wd_645_235.csv;
+	name wd_645_235;
 	file '../wd_files/wd_235.csv';
 };
 object player {
-	name wd_645_236.csv;
+	name wd_645_236;
 	file '../wd_files/wd_236.csv';
 };
 object player {
-	name wd_645_237.csv;
+	name wd_645_237;
 	file '../wd_files/wd_237.csv';
 };
 object player {
-	name wd_645_238.csv;
+	name wd_645_238;
 	file '../wd_files/wd_238.csv';
 };
 object player {
-	name wd_645_239.csv;
+	name wd_645_239;
 	file '../wd_files/wd_239.csv';
 };
 object player {
-	name wd_645_240.csv;
+	name wd_645_240;
 	file '../wd_files/wd_240.csv';
 };
 object player {
-	name wd_633_241.csv;
+	name wd_633_241;
 	file '../wd_files/wd_241.csv';
 };
 object player {
-	name wd_633_242.csv;
+	name wd_633_242;
 	file '../wd_files/wd_242.csv';
 };
 object player {
-	name wd_633_243.csv;
+	name wd_633_243;
 	file '../wd_files/wd_243.csv';
 };
 object player {
-	name wd_633_244.csv;
+	name wd_633_244;
 	file '../wd_files/wd_244.csv';
 };
 object player {
-	name wd_633_245.csv;
+	name wd_633_245;
 	file '../wd_files/wd_245.csv';
 };
 object player {
-	name wd_633_246.csv;
+	name wd_633_246;
 	file '../wd_files/wd_246.csv';
 };
 object player {
-	name wd_633_247.csv;
+	name wd_633_247;
 	file '../wd_files/wd_247.csv';
 };
 object player {
-	name wd_633_248.csv;
+	name wd_633_248;
 	file '../wd_files/wd_248.csv';
 };
 object player {
-	name wd_633_249.csv;
+	name wd_633_249;
 	file '../wd_files/wd_249.csv';
 };
 object player {
-	name wd_633_250.csv;
+	name wd_633_250;
 	file '../wd_files/wd_250.csv';
 };
 object player {
-	name wd_633_251.csv;
+	name wd_633_251;
 	file '../wd_files/wd_251.csv';
 };
 object player {
-	name wd_633_252.csv;
+	name wd_633_252;
 	file '../wd_files/wd_252.csv';
 };
 object player {
-	name wd_633_253.csv;
+	name wd_633_253;
 	file '../wd_files/wd_253.csv';
 };
 object player {
-	name wd_633_254.csv;
+	name wd_633_254;
 	file '../wd_files/wd_254.csv';
 };
 object player {
-	name wd_633_255.csv;
+	name wd_633_255;
 	file '../wd_files/wd_255.csv';
 };
 object player {
-	name wd_633_256.csv;
+	name wd_633_256;
 	file '../wd_files/wd_256.csv';
 };
 object player {
-	name wd_633_257.csv;
+	name wd_633_257;
 	file '../wd_files/wd_257.csv';
 };
 object player {
-	name wd_633_258.csv;
+	name wd_633_258;
 	file '../wd_files/wd_258.csv';
 };
 object player {
-	name wd_633_259.csv;
+	name wd_633_259;
 	file '../wd_files/wd_259.csv';
 };
 object player {
-	name wd_633_260.csv;
+	name wd_633_260;
 	file '../wd_files/wd_260.csv';
 };
 object player {
-	name wd_633_261.csv;
+	name wd_633_261;
 	file '../wd_files/wd_261.csv';
 };
 object player {
-	name wd_633_262.csv;
+	name wd_633_262;
 	file '../wd_files/wd_262.csv';
 };
 object player {
-	name wd_633_263.csv;
+	name wd_633_263;
 	file '../wd_files/wd_263.csv';
 };
 object player {
-	name wd_633_264.csv;
+	name wd_633_264;
 	file '../wd_files/wd_264.csv';
 };
 object player {
-	name wd_633_265.csv;
+	name wd_633_265;
 	file '../wd_files/wd_265.csv';
 };
 object player {
-	name wd_633_266.csv;
+	name wd_633_266;
 	file '../wd_files/wd_266.csv';
 };
 object player {
-	name wd_633_267.csv;
+	name wd_633_267;
 	file '../wd_files/wd_267.csv';
 };
 object player {
-	name wd_633_268.csv;
+	name wd_633_268;
 	file '../wd_files/wd_268.csv';
 };
 object player {
-	name wd_633_269.csv;
+	name wd_633_269;
 	file '../wd_files/wd_269.csv';
 };
 object player {
-	name wd_633_270.csv;
+	name wd_633_270;
 	file '../wd_files/wd_270.csv';
 };
 object player {
-	name wd_633_271.csv;
+	name wd_633_271;
 	file '../wd_files/wd_271.csv';
 };
 object player {
-	name wd_633_272.csv;
+	name wd_633_272;
 	file '../wd_files/wd_272.csv';
 };
 object player {
-	name wd_633_273.csv;
+	name wd_633_273;
 	file '../wd_files/wd_273.csv';
 };
 object player {
-	name wd_633_274.csv;
+	name wd_633_274;
 	file '../wd_files/wd_274.csv';
 };
 object player {
-	name wd_633_275.csv;
+	name wd_633_275;
 	file '../wd_files/wd_275.csv';
 };
 object player {
-	name wd_633_276.csv;
+	name wd_633_276;
 	file '../wd_files/wd_276.csv';
 };
 object player {
-	name wd_633_277.csv;
+	name wd_633_277;
 	file '../wd_files/wd_277.csv';
 };
 object player {
-	name wd_633_278.csv;
+	name wd_633_278;
 	file '../wd_files/wd_278.csv';
 };
 object player {
-	name wd_633_279.csv;
+	name wd_633_279;
 	file '../wd_files/wd_279.csv';
 };
 object player {
-	name wd_633_280.csv;
+	name wd_633_280;
 	file '../wd_files/wd_280.csv';
 };
 object player {
-	name wd_633_281.csv;
+	name wd_633_281;
 	file '../wd_files/wd_281.csv';
 };
 object player {
-	name wd_633_282.csv;
+	name wd_633_282;
 	file '../wd_files/wd_282.csv';
 };
 object player {
-	name wd_633_283.csv;
+	name wd_633_283;
 	file '../wd_files/wd_283.csv';
 };
 object player {
-	name wd_633_284.csv;
+	name wd_633_284;
 	file '../wd_files/wd_284.csv';
 };
 object player {
-	name wd_633_285.csv;
+	name wd_633_285;
 	file '../wd_files/wd_285.csv';
 };
 object player {
-	name wd_633_286.csv;
+	name wd_633_286;
 	file '../wd_files/wd_286.csv';
 };
 object player {
-	name wd_633_287.csv;
+	name wd_633_287;
 	file '../wd_files/wd_287.csv';
 };
 object player {
-	name wd_633_288.csv;
+	name wd_633_288;
 	file '../wd_files/wd_288.csv';
 };
 object player {
-	name wd_633_289.csv;
+	name wd_633_289;
 	file '../wd_files/wd_289.csv';
 };
 object player {
-	name wd_633_290.csv;
+	name wd_633_290;
 	file '../wd_files/wd_290.csv';
 };
 object player {
-	name wd_633_291.csv;
+	name wd_633_291;
 	file '../wd_files/wd_291.csv';
 };
 object player {
-	name wd_633_292.csv;
+	name wd_633_292;
 	file '../wd_files/wd_292.csv';
 };
 object player {
-	name wd_633_293.csv;
+	name wd_633_293;
 	file '../wd_files/wd_293.csv';
 };
 object player {
-	name wd_633_294.csv;
+	name wd_633_294;
 	file '../wd_files/wd_294.csv';
 };
 object player {
-	name wd_633_295.csv;
+	name wd_633_295;
 	file '../wd_files/wd_295.csv';
 };
 object player {
-	name wd_633_296.csv;
+	name wd_633_296;
 	file '../wd_files/wd_296.csv';
 };
 object player {
-	name wd_633_297.csv;
+	name wd_633_297;
 	file '../wd_files/wd_297.csv';
 };
 object player {
-	name wd_633_298.csv;
+	name wd_633_298;
 	file '../wd_files/wd_298.csv';
 };
 object player {
-	name wd_633_299.csv;
+	name wd_633_299;
 	file '../wd_files/wd_299.csv';
 };
 object player {
-	name wd_633_300.csv;
+	name wd_633_300;
 	file '../wd_files/wd_300.csv';
 };
 object player {
-	name wd_633_301.csv;
+	name wd_633_301;
 	file '../wd_files/wd_301.csv';
 };
 object player {
-	name wd_633_302.csv;
+	name wd_633_302;
 	file '../wd_files/wd_302.csv';
 };
 object player {
-	name wd_633_303.csv;
+	name wd_633_303;
 	file '../wd_files/wd_303.csv';
 };
 object player {
-	name wd_633_304.csv;
+	name wd_633_304;
 	file '../wd_files/wd_304.csv';
 };
 object player {
-	name wd_633_305.csv;
+	name wd_633_305;
 	file '../wd_files/wd_305.csv';
 };
 object player {
-	name wd_633_306.csv;
+	name wd_633_306;
 	file '../wd_files/wd_306.csv';
 };
 object player {
-	name wd_633_307.csv;
+	name wd_633_307;
 	file '../wd_files/wd_307.csv';
 };
 object player {
-	name wd_633_308.csv;
+	name wd_633_308;
 	file '../wd_files/wd_308.csv';
 };
 object player {
-	name wd_633_309.csv;
+	name wd_633_309;
 	file '../wd_files/wd_309.csv';
 };
 object player {
-	name wd_633_310.csv;
+	name wd_633_310;
 	file '../wd_files/wd_310.csv';
 };
 object player {
-	name wd_633_311.csv;
+	name wd_633_311;
 	file '../wd_files/wd_311.csv';
 };
 object player {
-	name wd_633_312.csv;
+	name wd_633_312;
 	file '../wd_files/wd_312.csv';
 };
 object player {
-	name wd_633_313.csv;
+	name wd_633_313;
 	file '../wd_files/wd_313.csv';
 };
 object player {
-	name wd_633_314.csv;
+	name wd_633_314;
 	file '../wd_files/wd_314.csv';
 };
 object player {
-	name wd_633_315.csv;
+	name wd_633_315;
 	file '../wd_files/wd_315.csv';
 };
 object player {
-	name wd_633_316.csv;
+	name wd_633_316;
 	file '../wd_files/wd_316.csv';
 };
 object player {
-	name wd_633_317.csv;
+	name wd_633_317;
 	file '../wd_files/wd_317.csv';
 };
 object player {
-	name wd_633_318.csv;
+	name wd_633_318;
 	file '../wd_files/wd_318.csv';
 };
 object player {
-	name wd_633_319.csv;
+	name wd_633_319;
 	file '../wd_files/wd_319.csv';
 };
 object player {
-	name wd_633_320.csv;
+	name wd_633_320;
 	file '../wd_files/wd_320.csv';
 };
 object player {
-	name wd_633_321.csv;
+	name wd_633_321;
 	file '../wd_files/wd_321.csv';
 };
 object player {
-	name wd_633_322.csv;
+	name wd_633_322;
 	file '../wd_files/wd_322.csv';
 };
 object player {
-	name wd_633_323.csv;
+	name wd_633_323;
 	file '../wd_files/wd_323.csv';
 };
 object player {
-	name wd_633_324.csv;
+	name wd_633_324;
 	file '../wd_files/wd_324.csv';
 };
 object player {
-	name wd_633_325.csv;
+	name wd_633_325;
 	file '../wd_files/wd_325.csv';
 };
 object player {
-	name wd_633_326.csv;
+	name wd_633_326;
 	file '../wd_files/wd_326.csv';
 };
 object player {
-	name wd_633_327.csv;
+	name wd_633_327;
 	file '../wd_files/wd_327.csv';
 };
 object player {
-	name wd_633_328.csv;
+	name wd_633_328;
 	file '../wd_files/wd_328.csv';
 };
 object player {
-	name wd_633_329.csv;
+	name wd_633_329;
 	file '../wd_files/wd_329.csv';
 };
 object player {
-	name wd_633_330.csv;
+	name wd_633_330;
 	file '../wd_files/wd_330.csv';
 };
 object player {
-	name wd_633_331.csv;
+	name wd_633_331;
 	file '../wd_files/wd_331.csv';
 };
 object player {
-	name wd_633_332.csv;
+	name wd_633_332;
 	file '../wd_files/wd_332.csv';
 };
 object player {
-	name wd_633_333.csv;
+	name wd_633_333;
 	file '../wd_files/wd_333.csv';
 };
 object player {
-	name wd_633_334.csv;
+	name wd_633_334;
 	file '../wd_files/wd_334.csv';
 };
 object player {
-	name wd_633_335.csv;
+	name wd_633_335;
 	file '../wd_files/wd_335.csv';
 };
 object player {
-	name wd_633_336.csv;
+	name wd_633_336;
 	file '../wd_files/wd_336.csv';
 };
 object player {
-	name wd_633_337.csv;
+	name wd_633_337;
 	file '../wd_files/wd_337.csv';
 };
 object player {
-	name wd_633_338.csv;
+	name wd_633_338;
 	file '../wd_files/wd_338.csv';
 };
 object player {
-	name wd_633_339.csv;
+	name wd_633_339;
 	file '../wd_files/wd_339.csv';
 };
 object player {
-	name wd_633_340.csv;
+	name wd_633_340;
 	file '../wd_files/wd_340.csv';
 };
 object player {
-	name wd_633_341.csv;
+	name wd_633_341;
 	file '../wd_files/wd_341.csv';
 };
 object player {
-	name wd_633_342.csv;
+	name wd_633_342;
 	file '../wd_files/wd_342.csv';
 };
 object player {
-	name wd_633_343.csv;
+	name wd_633_343;
 	file '../wd_files/wd_343.csv';
 };
 object player {
-	name wd_633_344.csv;
+	name wd_633_344;
 	file '../wd_files/wd_344.csv';
 };
 object player {
-	name wd_633_345.csv;
+	name wd_633_345;
 	file '../wd_files/wd_345.csv';
 };
 object player {
-	name wd_633_346.csv;
+	name wd_633_346;
 	file '../wd_files/wd_346.csv';
 };
 object player {
-	name wd_633_347.csv;
+	name wd_633_347;
 	file '../wd_files/wd_347.csv';
 };
 object player {
-	name wd_633_348.csv;
+	name wd_633_348;
 	file '../wd_files/wd_348.csv';
 };
 object player {
-	name wd_633_349.csv;
+	name wd_633_349;
 	file '../wd_files/wd_349.csv';
 };
 object player {
-	name wd_633_350.csv;
+	name wd_633_350;
 	file '../wd_files/wd_350.csv';
 };
 object player {
-	name wd_633_351.csv;
+	name wd_633_351;
 	file '../wd_files/wd_351.csv';
 };
 object player {
-	name wd_633_352.csv;
+	name wd_633_352;
 	file '../wd_files/wd_352.csv';
 };
 object player {
-	name wd_633_353.csv;
+	name wd_633_353;
 	file '../wd_files/wd_353.csv';
 };
 object player {
-	name wd_633_354.csv;
+	name wd_633_354;
 	file '../wd_files/wd_354.csv';
 };
 object player {
-	name wd_633_355.csv;
+	name wd_633_355;
 	file '../wd_files/wd_355.csv';
 };
 object player {
-	name wd_633_356.csv;
+	name wd_633_356;
 	file '../wd_files/wd_356.csv';
 };
 object player {
-	name wd_633_357.csv;
+	name wd_633_357;
 	file '../wd_files/wd_357.csv';
 };
 object player {
-	name wd_633_358.csv;
+	name wd_633_358;
 	file '../wd_files/wd_358.csv';
 };
 object player {
-	name wd_633_359.csv;
+	name wd_633_359;
 	file '../wd_files/wd_359.csv';
 };
 object player {
-	name wd_633_360.csv;
+	name wd_633_360;
 	file '../wd_files/wd_360.csv';
 };
 object player {
-	name wd_632_361.csv;
+	name wd_632_361;
 	file '../wd_files/wd_361.csv';
 };
 object player {
-	name wd_632_362.csv;
+	name wd_632_362;
 	file '../wd_files/wd_362.csv';
 };
 object player {
-	name wd_632_363.csv;
+	name wd_632_363;
 	file '../wd_files/wd_363.csv';
 };
 object player {
-	name wd_632_364.csv;
+	name wd_632_364;
 	file '../wd_files/wd_364.csv';
 };
 object player {
-	name wd_632_365.csv;
+	name wd_632_365;
 	file '../wd_files/wd_365.csv';
 };
 object player {
-	name wd_632_366.csv;
+	name wd_632_366;
 	file '../wd_files/wd_366.csv';
 };
 object player {
-	name wd_632_367.csv;
+	name wd_632_367;
 	file '../wd_files/wd_367.csv';
 };
 object player {
-	name wd_632_368.csv;
+	name wd_632_368;
 	file '../wd_files/wd_368.csv';
 };
 object player {
-	name wd_632_369.csv;
+	name wd_632_369;
 	file '../wd_files/wd_369.csv';
 };
 object player {
-	name wd_632_370.csv;
+	name wd_632_370;
 	file '../wd_files/wd_370.csv';
 };
 object player {
-	name wd_632_371.csv;
+	name wd_632_371;
 	file '../wd_files/wd_371.csv';
 };
 object player {
-	name wd_632_372.csv;
+	name wd_632_372;
 	file '../wd_files/wd_372.csv';
 };
 object player {
-	name wd_632_373.csv;
+	name wd_632_373;
 	file '../wd_files/wd_373.csv';
 };
 object player {
-	name wd_632_374.csv;
+	name wd_632_374;
 	file '../wd_files/wd_374.csv';
 };
 object player {
-	name wd_632_375.csv;
+	name wd_632_375;
 	file '../wd_files/wd_375.csv';
 };
 object player {
-	name wd_632_376.csv;
+	name wd_632_376;
 	file '../wd_files/wd_376.csv';
 };
 object player {
-	name wd_632_377.csv;
+	name wd_632_377;
 	file '../wd_files/wd_377.csv';
 };
 object player {
-	name wd_632_378.csv;
+	name wd_632_378;
 	file '../wd_files/wd_378.csv';
 };
 object player {
-	name wd_632_379.csv;
+	name wd_632_379;
 	file '../wd_files/wd_379.csv';
 };
 object player {
-	name wd_632_380.csv;
+	name wd_632_380;
 	file '../wd_files/wd_380.csv';
 };
 object player {
-	name wd_632_381.csv;
+	name wd_632_381;
 	file '../wd_files/wd_381.csv';
 };
 object player {
-	name wd_632_382.csv;
+	name wd_632_382;
 	file '../wd_files/wd_382.csv';
 };
 object player {
-	name wd_632_383.csv;
+	name wd_632_383;
 	file '../wd_files/wd_383.csv';
 };
 object player {
-	name wd_632_384.csv;
+	name wd_632_384;
 	file '../wd_files/wd_384.csv';
 };
 object player {
-	name wd_632_385.csv;
+	name wd_632_385;
 	file '../wd_files/wd_385.csv';
 };
 object player {
-	name wd_632_386.csv;
+	name wd_632_386;
 	file '../wd_files/wd_386.csv';
 };
 object player {
-	name wd_632_387.csv;
+	name wd_632_387;
 	file '../wd_files/wd_387.csv';
 };
 object player {
-	name wd_632_388.csv;
+	name wd_632_388;
 	file '../wd_files/wd_388.csv';
 };
 object player {
-	name wd_632_389.csv;
+	name wd_632_389;
 	file '../wd_files/wd_389.csv';
 };
 object player {
-	name wd_632_390.csv;
+	name wd_632_390;
 	file '../wd_files/wd_390.csv';
 };
 object player {
-	name wd_632_391.csv;
+	name wd_632_391;
 	file '../wd_files/wd_391.csv';
 };
 object player {
-	name wd_632_392.csv;
+	name wd_632_392;
 	file '../wd_files/wd_392.csv';
 };
 object player {
-	name wd_632_393.csv;
+	name wd_632_393;
 	file '../wd_files/wd_393.csv';
 };
 object player {
-	name wd_632_394.csv;
+	name wd_632_394;
 	file '../wd_files/wd_394.csv';
 };
 object player {
-	name wd_632_395.csv;
+	name wd_632_395;
 	file '../wd_files/wd_395.csv';
 };
 object player {
-	name wd_632_396.csv;
+	name wd_632_396;
 	file '../wd_files/wd_396.csv';
 };
 object player {
-	name wd_632_397.csv;
+	name wd_632_397;
 	file '../wd_files/wd_397.csv';
 };
 object player {
-	name wd_632_398.csv;
+	name wd_632_398;
 	file '../wd_files/wd_398.csv';
 };
 object player {
-	name wd_632_399.csv;
+	name wd_632_399;
 	file '../wd_files/wd_399.csv';
 };
 object player {
-	name wd_632_400.csv;
+	name wd_632_400;
 	file '../wd_files/wd_400.csv';
 };
 object player {
-	name wd_632_401.csv;
+	name wd_632_401;
 	file '../wd_files/wd_401.csv';
 };
 object player {
-	name wd_632_402.csv;
+	name wd_632_402;
 	file '../wd_files/wd_402.csv';
 };
 object player {
-	name wd_632_403.csv;
+	name wd_632_403;
 	file '../wd_files/wd_403.csv';
 };
 object player {
-	name wd_632_404.csv;
+	name wd_632_404;
 	file '../wd_files/wd_404.csv';
 };
 object player {
-	name wd_632_405.csv;
+	name wd_632_405;
 	file '../wd_files/wd_405.csv';
 };
 object player {
-	name wd_632_406.csv;
+	name wd_632_406;
 	file '../wd_files/wd_406.csv';
 };
 object player {
-	name wd_632_407.csv;
+	name wd_632_407;
 	file '../wd_files/wd_407.csv';
 };
 object player {
-	name wd_632_408.csv;
+	name wd_632_408;
 	file '../wd_files/wd_408.csv';
 };
 object player {
-	name wd_632_409.csv;
+	name wd_632_409;
 	file '../wd_files/wd_409.csv';
 };
 object player {
-	name wd_632_410.csv;
+	name wd_632_410;
 	file '../wd_files/wd_410.csv';
 };
 object player {
-	name wd_632_411.csv;
+	name wd_632_411;
 	file '../wd_files/wd_411.csv';
 };
 object player {
-	name wd_632_412.csv;
+	name wd_632_412;
 	file '../wd_files/wd_412.csv';
 };
 object player {
-	name wd_632_413.csv;
+	name wd_632_413;
 	file '../wd_files/wd_413.csv';
 };
 object player {
-	name wd_632_414.csv;
+	name wd_632_414;
 	file '../wd_files/wd_414.csv';
 };
 object player {
-	name wd_632_415.csv;
+	name wd_632_415;
 	file '../wd_files/wd_415.csv';
 };
 object player {
-	name wd_632_416.csv;
+	name wd_632_416;
 	file '../wd_files/wd_416.csv';
 };
 object player {
-	name wd_632_417.csv;
+	name wd_632_417;
 	file '../wd_files/wd_417.csv';
 };
 object player {
-	name wd_632_418.csv;
+	name wd_632_418;
 	file '../wd_files/wd_418.csv';
 };
 object player {
-	name wd_632_419.csv;
+	name wd_632_419;
 	file '../wd_files/wd_419.csv';
 };
 object player {
-	name wd_632_420.csv;
+	name wd_632_420;
 	file '../wd_files/wd_420.csv';
 };
 object player {
-	name wd_632_421.csv;
+	name wd_632_421;
 	file '../wd_files/wd_421.csv';
 };
 object player {
-	name wd_632_422.csv;
+	name wd_632_422;
 	file '../wd_files/wd_422.csv';
 };
 object player {
-	name wd_632_423.csv;
+	name wd_632_423;
 	file '../wd_files/wd_423.csv';
 };
 object player {
-	name wd_632_424.csv;
+	name wd_632_424;
 	file '../wd_files/wd_424.csv';
 };
 object player {
-	name wd_632_425.csv;
+	name wd_632_425;
 	file '../wd_files/wd_425.csv';
 };
 object player {
-	name wd_632_426.csv;
+	name wd_632_426;
 	file '../wd_files/wd_426.csv';
 };
 object player {
-	name wd_632_427.csv;
+	name wd_632_427;
 	file '../wd_files/wd_427.csv';
 };
 object player {
-	name wd_632_428.csv;
+	name wd_632_428;
 	file '../wd_files/wd_428.csv';
 };
 object player {
-	name wd_632_429.csv;
+	name wd_632_429;
 	file '../wd_files/wd_429.csv';
 };
 object player {
-	name wd_632_430.csv;
+	name wd_632_430;
 	file '../wd_files/wd_430.csv';
 };
 object player {
-	name wd_632_431.csv;
+	name wd_632_431;
 	file '../wd_files/wd_431.csv';
 };
 object player {
-	name wd_632_432.csv;
+	name wd_632_432;
 	file '../wd_files/wd_432.csv';
 };
 object player {
-	name wd_632_433.csv;
+	name wd_632_433;
 	file '../wd_files/wd_433.csv';
 };
 object player {
-	name wd_632_434.csv;
+	name wd_632_434;
 	file '../wd_files/wd_434.csv';
 };
 object player {
-	name wd_632_435.csv;
+	name wd_632_435;
 	file '../wd_files/wd_435.csv';
 };
 object player {
-	name wd_632_436.csv;
+	name wd_632_436;
 	file '../wd_files/wd_436.csv';
-};
-object player {
-	name wd_632_437.csv;
-	file '../wd_files/wd_437.csv';
-};
-object player {
-	name wd_632_438.csv;
-	file '../wd_files/wd_438.csv';
-};
-object player {
-	name wd_632_439.csv;
-	file '../wd_files/wd_439.csv';
-};
-object player {
-	name wd_632_440.csv;
-	file '../wd_files/wd_440.csv';
-};
-object player {
-	name wd_632_441.csv;
-	file '../wd_files/wd_441.csv';
-};
-object player {
-	name wd_632_442.csv;
-	file '../wd_files/wd_442.csv';
-};
-object player {
-	name wd_632_443.csv;
-	file '../wd_files/wd_443.csv';
-};
-object player {
-	name wd_632_444.csv;
-	file '../wd_files/wd_444.csv';
-};
-object player {
-	name wd_632_445.csv;
-	file '../wd_files/wd_445.csv';
-};
-object player {
-	name wd_632_446.csv;
-	file '../wd_files/wd_446.csv';
-};
-object player {
-	name wd_632_447.csv;
-	file '../wd_files/wd_447.csv';
-};
-object player {
-	name wd_632_448.csv;
-	file '../wd_files/wd_448.csv';
-};
-object player {
-	name wd_632_449.csv;
-	file '../wd_files/wd_449.csv';
-};
-object player {
-	name wd_632_450.csv;
-	file '../wd_files/wd_450.csv';
-};
-object player {
-	name wd_632_451.csv;
-	file '../wd_files/wd_451.csv';
-};
-object player {
-	name wd_632_452.csv;
-	file '../wd_files/wd_452.csv';
-};
-object player {
-	name wd_632_453.csv;
-	file '../wd_files/wd_453.csv';
-};
-object player {
-	name wd_632_454.csv;
-	file '../wd_files/wd_454.csv';
-};
-object player {
-	name wd_632_455.csv;
-	file '../wd_files/wd_455.csv';
-};
-object player {
-	name wd_632_456.csv;
-	file '../wd_files/wd_456.csv';
-};
-object player {
-	name wd_632_457.csv;
-	file '../wd_files/wd_457.csv';
-};
-object player {
-	name wd_632_458.csv;
-	file '../wd_files/wd_458.csv';
-};
-object player {
-	name wd_632_459.csv;
-	file '../wd_files/wd_459.csv';
-};
-object player {
-	name wd_632_460.csv;
-	file '../wd_files/wd_460.csv';
-};
-object player {
-	name wd_632_461.csv;
-	file '../wd_files/wd_461.csv';
-};
-object player {
-	name wd_632_462.csv;
-	file '../wd_files/wd_462.csv';
-};
-object player {
-	name wd_632_463.csv;
-	file '../wd_files/wd_463.csv';
-};
-object player {
-	name wd_632_464.csv;
-	file '../wd_files/wd_464.csv';
-};
-object player {
-	name wd_632_465.csv;
-	file '../wd_files/wd_465.csv';
-};
-object player {
-	name wd_632_466.csv;
-	file '../wd_files/wd_466.csv';
-};
-object player {
-	name wd_632_467.csv;
-	file '../wd_files/wd_467.csv';
-};
-object player {
-	name wd_632_468.csv;
-	file '../wd_files/wd_468.csv';
-};
-object player {
-	name wd_632_469.csv;
-	file '../wd_files/wd_469.csv';
-};
-object player {
-	name wd_632_470.csv;
-	file '../wd_files/wd_470.csv';
-};
-object player {
-	name wd_632_471.csv;
-	file '../wd_files/wd_471.csv';
-};
-object player {
-	name wd_632_472.csv;
-	file '../wd_files/wd_472.csv';
-};
-object player {
-	name wd_632_473.csv;
-	file '../wd_files/wd_473.csv';
-};
-object player {
-	name wd_632_474.csv;
-	file '../wd_files/wd_474.csv';
-};
-object player {
-	name wd_632_475.csv;
-	file '../wd_files/wd_475.csv';
-};
-object player {
-	name wd_632_476.csv;
-	file '../wd_files/wd_476.csv';
-};
-object player {
-	name wd_632_477.csv;
-	file '../wd_files/wd_477.csv';
-};
-object player {
-	name wd_632_478.csv;
-	file '../wd_files/wd_478.csv';
-};
-object player {
-	name wd_632_479.csv;
-	file '../wd_files/wd_479.csv';
-};
-object player {
-	name wd_632_480.csv;
-	file '../wd_files/wd_480.csv';
-};
-object player {
-	name wd_692_481.csv;
-	file '../wd_files/wd_481.csv';
-};
-object player {
-	name wd_692_482.csv;
-	file '../wd_files/wd_482.csv';
-};
-object player {
-	name wd_692_483.csv;
-	file '../wd_files/wd_483.csv';
-};
-object player {
-	name wd_692_484.csv;
-	file '../wd_files/wd_484.csv';
-};
-object player {
-	name wd_692_485.csv;
-	file '../wd_files/wd_485.csv';
-};
-object player {
-	name wd_692_486.csv;
-	file '../wd_files/wd_486.csv';
-};
-object player {
-	name wd_692_487.csv;
-	file '../wd_files/wd_487.csv';
-};
-object player {
-	name wd_692_488.csv;
-	file '../wd_files/wd_488.csv';
-};
-object player {
-	name wd_692_489.csv;
-	file '../wd_files/wd_489.csv';
-};
-object player {
-	name wd_692_490.csv;
-	file '../wd_files/wd_490.csv';
-};
-object player {
-	name wd_692_491.csv;
-	file '../wd_files/wd_491.csv';
-};
-object player {
-	name wd_692_492.csv;
-	file '../wd_files/wd_492.csv';
-};
-object player {
-	name wd_692_493.csv;
-	file '../wd_files/wd_493.csv';
-};
-object player {
-	name wd_692_494.csv;
-	file '../wd_files/wd_494.csv';
-};
-object player {
-	name wd_692_495.csv;
-	file '../wd_files/wd_495.csv';
-};
-object player {
-	name wd_692_496.csv;
-	file '../wd_files/wd_496.csv';
-};
-object player {
-	name wd_692_497.csv;
-	file '../wd_files/wd_497.csv';
-};
-object player {
-	name wd_692_498.csv;
-	file '../wd_files/wd_498.csv';
-};
-object player {
-	name wd_692_499.csv;
-	file '../wd_files/wd_499.csv';
-};
-object player {
-	name wd_692_500.csv;
-	file '../wd_files/wd_500.csv';
-};
-object player {
-	name wd_692_501.csv;
-	file '../wd_files/wd_501.csv';
-};
-object player {
-	name wd_692_502.csv;
-	file '../wd_files/wd_502.csv';
-};
-object player {
-	name wd_692_503.csv;
-	file '../wd_files/wd_503.csv';
-};
-object player {
-	name wd_692_504.csv;
-	file '../wd_files/wd_504.csv';
-};
-object player {
-	name wd_692_505.csv;
-	file '../wd_files/wd_505.csv';
-};
-object player {
-	name wd_692_506.csv;
-	file '../wd_files/wd_506.csv';
-};
-object player {
-	name wd_692_507.csv;
-	file '../wd_files/wd_507.csv';
-};
-object player {
-	name wd_692_508.csv;
-	file '../wd_files/wd_508.csv';
-};
-object player {
-	name wd_692_509.csv;
-	file '../wd_files/wd_509.csv';
-};
-object player {
-	name wd_692_510.csv;
-	file '../wd_files/wd_510.csv';
-};
-object player {
-	name wd_692_511.csv;
-	file '../wd_files/wd_511.csv';
-};
-object player {
-	name wd_692_512.csv;
-	file '../wd_files/wd_512.csv';
-};
-object player {
-	name wd_692_513.csv;
-	file '../wd_files/wd_513.csv';
-};
-object player {
-	name wd_692_514.csv;
-	file '../wd_files/wd_514.csv';
-};
-object player {
-	name wd_692_515.csv;
-	file '../wd_files/wd_515.csv';
-};
-object player {
-	name wd_692_516.csv;
-	file '../wd_files/wd_516.csv';
-};
-object player {
-	name wd_692_517.csv;
-	file '../wd_files/wd_517.csv';
-};
-object player {
-	name wd_692_518.csv;
-	file '../wd_files/wd_518.csv';
-};
-object player {
-	name wd_692_519.csv;
-	file '../wd_files/wd_519.csv';
-};
-object player {
-	name wd_692_520.csv;
-	file '../wd_files/wd_520.csv';
-};
-object player {
-	name wd_692_521.csv;
-	file '../wd_files/wd_521.csv';
-};
-object player {
-	name wd_692_522.csv;
-	file '../wd_files/wd_522.csv';
-};
-object player {
-	name wd_692_523.csv;
-	file '../wd_files/wd_523.csv';
-};
-object player {
-	name wd_692_524.csv;
-	file '../wd_files/wd_524.csv';
-};
-object player {
-	name wd_692_525.csv;
-	file '../wd_files/wd_525.csv';
-};
-object player {
-	name wd_692_526.csv;
-	file '../wd_files/wd_526.csv';
-};
-object player {
-	name wd_692_527.csv;
-	file '../wd_files/wd_527.csv';
-};
-object player {
-	name wd_692_528.csv;
-	file '../wd_files/wd_528.csv';
-};
-object player {
-	name wd_692_529.csv;
-	file '../wd_files/wd_529.csv';
-};
-object player {
-	name wd_692_530.csv;
-	file '../wd_files/wd_530.csv';
-};
-object player {
-	name wd_692_531.csv;
-	file '../wd_files/wd_531.csv';
-};
-object player {
-	name wd_692_532.csv;
-	file '../wd_files/wd_532.csv';
-};
-object player {
-	name wd_692_533.csv;
-	file '../wd_files/wd_533.csv';
-};
-object player {
-	name wd_692_534.csv;
-	file '../wd_files/wd_534.csv';
-};
-object player {
-	name wd_692_535.csv;
-	file '../wd_files/wd_535.csv';
-};
-object player {
-	name wd_692_536.csv;
-	file '../wd_files/wd_536.csv';
-};
-object player {
-	name wd_692_537.csv;
-	file '../wd_files/wd_537.csv';
-};
-object player {
-	name wd_692_538.csv;
-	file '../wd_files/wd_538.csv';
-};
-object player {
-	name wd_692_539.csv;
-	file '../wd_files/wd_539.csv';
-};
-object player {
-	name wd_692_540.csv;
-	file '../wd_files/wd_540.csv';
-};
-object player {
-	name wd_692_541.csv;
-	file '../wd_files/wd_541.csv';
-};
-object player {
-	name wd_692_542.csv;
-	file '../wd_files/wd_542.csv';
-};
-object player {
-	name wd_692_543.csv;
-	file '../wd_files/wd_543.csv';
-};
-object player {
-	name wd_692_544.csv;
-	file '../wd_files/wd_544.csv';
-};
-object player {
-	name wd_692_545.csv;
-	file '../wd_files/wd_545.csv';
-};
-object player {
-	name wd_692_546.csv;
-	file '../wd_files/wd_546.csv';
-};
-object player {
-	name wd_692_547.csv;
-	file '../wd_files/wd_547.csv';
-};
-object player {
-	name wd_692_548.csv;
-	file '../wd_files/wd_548.csv';
-};
-object player {
-	name wd_692_549.csv;
-	file '../wd_files/wd_549.csv';
-};
-object player {
-	name wd_692_550.csv;
-	file '../wd_files/wd_550.csv';
-};
-object player {
-	name wd_692_551.csv;
-	file '../wd_files/wd_551.csv';
-};
-object player {
-	name wd_692_552.csv;
-	file '../wd_files/wd_552.csv';
-};
-object player {
-	name wd_692_553.csv;
-	file '../wd_files/wd_553.csv';
-};
-object player {
-	name wd_692_554.csv;
-	file '../wd_files/wd_554.csv';
-};
-object player {
-	name wd_692_555.csv;
-	file '../wd_files/wd_555.csv';
-};
-object player {
-	name wd_692_556.csv;
-	file '../wd_files/wd_556.csv';
-};
-object player {
-	name wd_692_557.csv;
-	file '../wd_files/wd_557.csv';
-};
-object player {
-	name wd_692_558.csv;
-	file '../wd_files/wd_558.csv';
-};
-object player {
-	name wd_692_559.csv;
-	file '../wd_files/wd_559.csv';
-};
-object player {
-	name wd_692_560.csv;
-	file '../wd_files/wd_560.csv';
-};
-object player {
-	name wd_692_561.csv;
-	file '../wd_files/wd_561.csv';
-};
-object player {
-	name wd_692_562.csv;
-	file '../wd_files/wd_562.csv';
-};
-object player {
-	name wd_692_563.csv;
-	file '../wd_files/wd_563.csv';
-};
-object player {
-	name wd_692_564.csv;
-	file '../wd_files/wd_564.csv';
-};
-object player {
-	name wd_692_565.csv;
-	file '../wd_files/wd_565.csv';
-};
-object player {
-	name wd_692_566.csv;
-	file '../wd_files/wd_566.csv';
-};
-object player {
-	name wd_692_567.csv;
-	file '../wd_files/wd_567.csv';
-};
-object player {
-	name wd_692_568.csv;
-	file '../wd_files/wd_568.csv';
-};
-object player {
-	name wd_692_569.csv;
-	file '../wd_files/wd_569.csv';
-};
-object player {
-	name wd_692_570.csv;
-	file '../wd_files/wd_570.csv';
-};
-object player {
-	name wd_692_571.csv;
-	file '../wd_files/wd_571.csv';
-};
-object player {
-	name wd_692_572.csv;
-	file '../wd_files/wd_572.csv';
-};
-object player {
-	name wd_692_573.csv;
-	file '../wd_files/wd_573.csv';
-};
-object player {
-	name wd_692_574.csv;
-	file '../wd_files/wd_574.csv';
-};
-object player {
-	name wd_692_575.csv;
-	file '../wd_files/wd_575.csv';
-};
-object player {
-	name wd_692_576.csv;
-	file '../wd_files/wd_576.csv';
-};
-object player {
-	name wd_692_577.csv;
-	file '../wd_files/wd_577.csv';
-};
-object player {
-	name wd_692_578.csv;
-	file '../wd_files/wd_578.csv';
-};
-object player {
-	name wd_692_579.csv;
-	file '../wd_files/wd_579.csv';
-};
-object player {
-	name wd_692_580.csv;
-	file '../wd_files/wd_580.csv';
-};
-object player {
-	name wd_692_581.csv;
-	file '../wd_files/wd_581.csv';
-};
-object player {
-	name wd_692_582.csv;
-	file '../wd_files/wd_582.csv';
-};
-object player {
-	name wd_692_583.csv;
-	file '../wd_files/wd_583.csv';
-};
-object player {
-	name wd_692_584.csv;
-	file '../wd_files/wd_584.csv';
-};
-object player {
-	name wd_692_585.csv;
-	file '../wd_files/wd_585.csv';
-};
-object player {
-	name wd_692_586.csv;
-	file '../wd_files/wd_586.csv';
-};
-object player {
-	name wd_692_587.csv;
-	file '../wd_files/wd_587.csv';
-};
-object player {
-	name wd_692_588.csv;
-	file '../wd_files/wd_588.csv';
-};
-object player {
-	name wd_692_589.csv;
-	file '../wd_files/wd_589.csv';
-};
-object player {
-	name wd_692_590.csv;
-	file '../wd_files/wd_590.csv';
-};
-object player {
-	name wd_692_591.csv;
-	file '../wd_files/wd_591.csv';
-};
-object player {
-	name wd_692_592.csv;
-	file '../wd_files/wd_592.csv';
-};
-object player {
-	name wd_692_593.csv;
-	file '../wd_files/wd_593.csv';
-};
-object player {
-	name wd_692_594.csv;
-	file '../wd_files/wd_594.csv';
-};
-object player {
-	name wd_692_595.csv;
-	file '../wd_files/wd_595.csv';
-};
-object player {
-	name wd_692_596.csv;
-	file '../wd_files/wd_596.csv';
-};
-object player {
-	name wd_692_597.csv;
-	file '../wd_files/wd_597.csv';
-};
-object player {
-	name wd_692_598.csv;
-	file '../wd_files/wd_598.csv';
-};
-object player {
-	name wd_692_599.csv;
-	file '../wd_files/wd_599.csv';
-};
-object player {
-	name wd_692_600.csv;
-	file '../wd_files/wd_600.csv';
-};
-object player {
-	name wd_675_601.csv;
-	file '../wd_files/wd_601.csv';
-};
-object player {
-	name wd_675_602.csv;
-	file '../wd_files/wd_602.csv';
-};
-object player {
-	name wd_675_603.csv;
-	file '../wd_files/wd_603.csv';
-};
-object player {
-	name wd_675_604.csv;
-	file '../wd_files/wd_604.csv';
-};
-object player {
-	name wd_675_605.csv;
-	file '../wd_files/wd_605.csv';
-};
-object player {
-	name wd_675_606.csv;
-	file '../wd_files/wd_606.csv';
-};
-object player {
-	name wd_675_607.csv;
-	file '../wd_files/wd_607.csv';
-};
-object player {
-	name wd_675_608.csv;
-	file '../wd_files/wd_608.csv';
-};
-object player {
-	name wd_675_609.csv;
-	file '../wd_files/wd_609.csv';
-};
-object player {
-	name wd_675_610.csv;
-	file '../wd_files/wd_610.csv';
-};
-object player {
-	name wd_675_611.csv;
-	file '../wd_files/wd_611.csv';
-};
-object player {
-	name wd_675_612.csv;
-	file '../wd_files/wd_612.csv';
-};
-object player {
-	name wd_675_613.csv;
-	file '../wd_files/wd_613.csv';
-};
-object player {
-	name wd_675_614.csv;
-	file '../wd_files/wd_614.csv';
-};
-object player {
-	name wd_675_615.csv;
-	file '../wd_files/wd_615.csv';
-};
-object player {
-	name wd_675_616.csv;
-	file '../wd_files/wd_616.csv';
-};
-object player {
-	name wd_675_617.csv;
-	file '../wd_files/wd_617.csv';
-};
-object player {
-	name wd_675_618.csv;
-	file '../wd_files/wd_618.csv';
-};
-object player {
-	name wd_675_619.csv;
-	file '../wd_files/wd_619.csv';
-};
-object player {
-	name wd_675_620.csv;
-	file '../wd_files/wd_620.csv';
-};
-object player {
-	name wd_675_621.csv;
-	file '../wd_files/wd_621.csv';
-};
-object player {
-	name wd_675_622.csv;
-	file '../wd_files/wd_622.csv';
-};
-object player {
-	name wd_675_623.csv;
-	file '../wd_files/wd_623.csv';
-};
-object player {
-	name wd_675_624.csv;
-	file '../wd_files/wd_624.csv';
-};
-object player {
-	name wd_675_625.csv;
-	file '../wd_files/wd_625.csv';
-};
-object player {
-	name wd_675_626.csv;
-	file '../wd_files/wd_626.csv';
-};
-object player {
-	name wd_675_627.csv;
-	file '../wd_files/wd_627.csv';
-};
-object player {
-	name wd_675_628.csv;
-	file '../wd_files/wd_628.csv';
-};
-object player {
-	name wd_675_629.csv;
-	file '../wd_files/wd_629.csv';
-};
-object player {
-	name wd_675_630.csv;
-	file '../wd_files/wd_630.csv';
-};
-object player {
-	name wd_675_631.csv;
-	file '../wd_files/wd_631.csv';
-};
-object player {
-	name wd_675_632.csv;
-	file '../wd_files/wd_632.csv';
-};
-object player {
-	name wd_675_633.csv;
-	file '../wd_files/wd_633.csv';
-};
-object player {
-	name wd_675_634.csv;
-	file '../wd_files/wd_634.csv';
-};
-object player {
-	name wd_675_635.csv;
-	file '../wd_files/wd_635.csv';
-};
-object player {
-	name wd_675_636.csv;
-	file '../wd_files/wd_636.csv';
-};
-object player {
-	name wd_675_637.csv;
-	file '../wd_files/wd_637.csv';
-};
-object player {
-	name wd_675_638.csv;
-	file '../wd_files/wd_638.csv';
-};
-object player {
-	name wd_675_639.csv;
-	file '../wd_files/wd_639.csv';
-};
-object player {
-	name wd_675_640.csv;
-	file '../wd_files/wd_640.csv';
-};
-object player {
-	name wd_675_641.csv;
-	file '../wd_files/wd_641.csv';
-};
-object player {
-	name wd_675_642.csv;
-	file '../wd_files/wd_642.csv';
-};
-object player {
-	name wd_675_643.csv;
-	file '../wd_files/wd_643.csv';
-};
-object player {
-	name wd_675_644.csv;
-	file '../wd_files/wd_644.csv';
-};
-object player {
-	name wd_675_645.csv;
-	file '../wd_files/wd_645.csv';
-};
-object player {
-	name wd_675_646.csv;
-	file '../wd_files/wd_646.csv';
-};
-object player {
-	name wd_675_647.csv;
-	file '../wd_files/wd_647.csv';
-};
-object player {
-	name wd_675_648.csv;
-	file '../wd_files/wd_648.csv';
-};
-object player {
-	name wd_675_649.csv;
-	file '../wd_files/wd_649.csv';
-};
-object player {
-	name wd_675_650.csv;
-	file '../wd_files/wd_650.csv';
-};
-object player {
-	name wd_675_651.csv;
-	file '../wd_files/wd_651.csv';
-};
-object player {
-	name wd_675_652.csv;
-	file '../wd_files/wd_652.csv';
-};
-object player {
-	name wd_675_653.csv;
-	file '../wd_files/wd_653.csv';
-};
-object player {
-	name wd_675_654.csv;
-	file '../wd_files/wd_654.csv';
-};
-object player {
-	name wd_675_655.csv;
-	file '../wd_files/wd_655.csv';
-};
-object player {
-	name wd_675_656.csv;
-	file '../wd_files/wd_656.csv';
-};
-object player {
-	name wd_675_657.csv;
-	file '../wd_files/wd_657.csv';
-};
-object player {
-	name wd_675_658.csv;
-	file '../wd_files/wd_658.csv';
-};
-object player {
-	name wd_675_659.csv;
-	file '../wd_files/wd_659.csv';
-};
-object player {
-	name wd_675_660.csv;
-	file '../wd_files/wd_660.csv';
-};
-object player {
-	name wd_675_661.csv;
-	file '../wd_files/wd_661.csv';
-};
-object player {
-	name wd_675_662.csv;
-	file '../wd_files/wd_662.csv';
-};
-object player {
-	name wd_675_663.csv;
-	file '../wd_files/wd_663.csv';
-};
-object player {
-	name wd_675_664.csv;
-	file '../wd_files/wd_664.csv';
-};
-object player {
-	name wd_675_665.csv;
-	file '../wd_files/wd_665.csv';
-};
-object player {
-	name wd_675_666.csv;
-	file '../wd_files/wd_666.csv';
-};
-object player {
-	name wd_675_667.csv;
-	file '../wd_files/wd_667.csv';
-};
-object player {
-	name wd_675_668.csv;
-	file '../wd_files/wd_668.csv';
-};
-object player {
-	name wd_675_669.csv;
-	file '../wd_files/wd_669.csv';
-};
-object player {
-	name wd_675_670.csv;
-	file '../wd_files/wd_670.csv';
-};
-object player {
-	name wd_675_671.csv;
-	file '../wd_files/wd_671.csv';
-};
-object player {
-	name wd_675_672.csv;
-	file '../wd_files/wd_672.csv';
-};
-object player {
-	name wd_675_673.csv;
-	file '../wd_files/wd_673.csv';
-};
-object player {
-	name wd_675_674.csv;
-	file '../wd_files/wd_674.csv';
-};
-object player {
-	name wd_675_675.csv;
-	file '../wd_files/wd_675.csv';
-};
-object player {
-	name wd_675_676.csv;
-	file '../wd_files/wd_676.csv';
-};
-object player {
-	name wd_675_677.csv;
-	file '../wd_files/wd_677.csv';
-};
-object player {
-	name wd_675_678.csv;
-	file '../wd_files/wd_678.csv';
-};
-object player {
-	name wd_675_679.csv;
-	file '../wd_files/wd_679.csv';
-};
-object player {
-	name wd_675_680.csv;
-	file '../wd_files/wd_680.csv';
-};
-object player {
-	name wd_675_681.csv;
-	file '../wd_files/wd_681.csv';
-};
-object player {
-	name wd_675_682.csv;
-	file '../wd_files/wd_682.csv';
-};
-object player {
-	name wd_675_683.csv;
-	file '../wd_files/wd_683.csv';
-};
-object player {
-	name wd_675_684.csv;
-	file '../wd_files/wd_684.csv';
-};
-object player {
-	name wd_675_685.csv;
-	file '../wd_files/wd_685.csv';
-};
-object player {
-	name wd_675_686.csv;
-	file '../wd_files/wd_686.csv';
-};
-object player {
-	name wd_675_687.csv;
-	file '../wd_files/wd_687.csv';
-};
-object player {
-	name wd_675_688.csv;
-	file '../wd_files/wd_688.csv';
-};
-object player {
-	name wd_675_689.csv;
-	file '../wd_files/wd_689.csv';
-};
-object player {
-	name wd_675_690.csv;
-	file '../wd_files/wd_690.csv';
-};
-object player {
-	name wd_675_691.csv;
-	file '../wd_files/wd_691.csv';
-};
-object player {
-	name wd_675_692.csv;
-	file '../wd_files/wd_692.csv';
-};
-object player {
-	name wd_675_693.csv;
-	file '../wd_files/wd_693.csv';
-};
-object player {
-	name wd_675_694.csv;
-	file '../wd_files/wd_694.csv';
-};
-object player {
-	name wd_675_695.csv;
-	file '../wd_files/wd_695.csv';
-};
-object player {
-	name wd_675_696.csv;
-	file '../wd_files/wd_696.csv';
-};
-object player {
-	name wd_675_697.csv;
-	file '../wd_files/wd_697.csv';
-};
-object player {
-	name wd_675_698.csv;
-	file '../wd_files/wd_698.csv';
-};
-object player {
-	name wd_675_699.csv;
-	file '../wd_files/wd_699.csv';
-};
-object player {
-	name wd_675_700.csv;
-	file '../wd_files/wd_700.csv';
-};
-object player {
-	name wd_675_701.csv;
-	file '../wd_files/wd_701.csv';
-};
-object player {
-	name wd_675_702.csv;
-	file '../wd_files/wd_702.csv';
-};
-object player {
-	name wd_675_703.csv;
-	file '../wd_files/wd_703.csv';
-};
-object player {
-	name wd_675_704.csv;
-	file '../wd_files/wd_704.csv';
-};
-object player {
-	name wd_675_705.csv;
-	file '../wd_files/wd_705.csv';
-};
-object player {
-	name wd_675_706.csv;
-	file '../wd_files/wd_706.csv';
-};
-object player {
-	name wd_675_707.csv;
-	file '../wd_files/wd_707.csv';
-};
-object player {
-	name wd_675_708.csv;
-	file '../wd_files/wd_708.csv';
-};
-object player {
-	name wd_675_709.csv;
-	file '../wd_files/wd_709.csv';
-};
-object player {
-	name wd_675_710.csv;
-	file '../wd_files/wd_710.csv';
-};
-object player {
-	name wd_675_711.csv;
-	file '../wd_files/wd_711.csv';
-};
-object player {
-	name wd_675_712.csv;
-	file '../wd_files/wd_712.csv';
-};
-object player {
-	name wd_675_713.csv;
-	file '../wd_files/wd_713.csv';
-};
-object player {
-	name wd_675_714.csv;
-	file '../wd_files/wd_714.csv';
-};
-object player {
-	name wd_675_715.csv;
-	file '../wd_files/wd_715.csv';
-};
-object player {
-	name wd_675_716.csv;
-	file '../wd_files/wd_716.csv';
-};
-object player {
-	name wd_675_717.csv;
-	file '../wd_files/wd_717.csv';
-};
-object player {
-	name wd_675_718.csv;
-	file '../wd_files/wd_718.csv';
-};
-object player {
-	name wd_675_719.csv;
-	file '../wd_files/wd_719.csv';
-};
-object player {
-	name wd_675_720.csv;
-	file '../wd_files/wd_720.csv';
-};
-object player {
-	name wd_671_721.csv;
-	file '../wd_files/wd_721.csv';
-};
-object player {
-	name wd_671_722.csv;
-	file '../wd_files/wd_722.csv';
-};
-object player {
-	name wd_671_723.csv;
-	file '../wd_files/wd_723.csv';
-};
-object player {
-	name wd_671_724.csv;
-	file '../wd_files/wd_724.csv';
-};
-object player {
-	name wd_671_725.csv;
-	file '../wd_files/wd_725.csv';
-};
-object player {
-	name wd_671_726.csv;
-	file '../wd_files/wd_726.csv';
-};
-object player {
-	name wd_671_727.csv;
-	file '../wd_files/wd_727.csv';
-};
-object player {
-	name wd_671_728.csv;
-	file '../wd_files/wd_728.csv';
-};
-object player {
-	name wd_671_729.csv;
-	file '../wd_files/wd_729.csv';
-};
-object player {
-	name wd_671_730.csv;
-	file '../wd_files/wd_730.csv';
-};
-object player {
-	name wd_671_731.csv;
-	file '../wd_files/wd_731.csv';
-};
-object player {
-	name wd_671_732.csv;
-	file '../wd_files/wd_732.csv';
-};
-object player {
-	name wd_671_733.csv;
-	file '../wd_files/wd_733.csv';
-};
-object player {
-	name wd_671_734.csv;
-	file '../wd_files/wd_734.csv';
-};
-object player {
-	name wd_671_735.csv;
-	file '../wd_files/wd_735.csv';
-};
-object player {
-	name wd_671_736.csv;
-	file '../wd_files/wd_736.csv';
-};
-object player {
-	name wd_671_737.csv;
-	file '../wd_files/wd_737.csv';
-};
-object player {
-	name wd_671_738.csv;
-	file '../wd_files/wd_738.csv';
-};
-object player {
-	name wd_671_739.csv;
-	file '../wd_files/wd_739.csv';
-};
-object player {
-	name wd_671_740.csv;
-	file '../wd_files/wd_740.csv';
-};
-object player {
-	name wd_671_741.csv;
-	file '../wd_files/wd_741.csv';
-};
-object player {
-	name wd_671_742.csv;
-	file '../wd_files/wd_742.csv';
-};
-object player {
-	name wd_671_743.csv;
-	file '../wd_files/wd_743.csv';
-};
-object player {
-	name wd_671_744.csv;
-	file '../wd_files/wd_744.csv';
-};
-object player {
-	name wd_671_745.csv;
-	file '../wd_files/wd_745.csv';
-};
-object player {
-	name wd_671_746.csv;
-	file '../wd_files/wd_746.csv';
-};
-object player {
-	name wd_671_747.csv;
-	file '../wd_files/wd_747.csv';
-};
-object player {
-	name wd_671_748.csv;
-	file '../wd_files/wd_748.csv';
-};
-object player {
-	name wd_671_749.csv;
-	file '../wd_files/wd_749.csv';
-};
-object player {
-	name wd_671_750.csv;
-	file '../wd_files/wd_750.csv';
-};
-object player {
-	name wd_671_751.csv;
-	file '../wd_files/wd_751.csv';
-};
-object player {
-	name wd_671_752.csv;
-	file '../wd_files/wd_752.csv';
-};
-object player {
-	name wd_671_753.csv;
-	file '../wd_files/wd_753.csv';
-};
-object player {
-	name wd_671_754.csv;
-	file '../wd_files/wd_754.csv';
-};
-object player {
-	name wd_671_755.csv;
-	file '../wd_files/wd_755.csv';
-};
-object player {
-	name wd_671_756.csv;
-	file '../wd_files/wd_756.csv';
-};
-object player {
-	name wd_671_757.csv;
-	file '../wd_files/wd_757.csv';
-};
-object player {
-	name wd_671_758.csv;
-	file '../wd_files/wd_758.csv';
-};
-object player {
-	name wd_671_759.csv;
-	file '../wd_files/wd_759.csv';
-};
-object player {
-	name wd_671_760.csv;
-	file '../wd_files/wd_760.csv';
-};
-object player {
-	name wd_671_761.csv;
-	file '../wd_files/wd_761.csv';
-};
-object player {
-	name wd_671_762.csv;
-	file '../wd_files/wd_762.csv';
-};
-object player {
-	name wd_671_763.csv;
-	file '../wd_files/wd_763.csv';
-};
-object player {
-	name wd_671_764.csv;
-	file '../wd_files/wd_764.csv';
-};
-object player {
-	name wd_671_765.csv;
-	file '../wd_files/wd_765.csv';
-};
-object player {
-	name wd_671_766.csv;
-	file '../wd_files/wd_766.csv';
-};
-object player {
-	name wd_671_767.csv;
-	file '../wd_files/wd_767.csv';
-};
-object player {
-	name wd_671_768.csv;
-	file '../wd_files/wd_768.csv';
-};
-object player {
-	name wd_671_769.csv;
-	file '../wd_files/wd_769.csv';
-};
-object player {
-	name wd_671_770.csv;
-	file '../wd_files/wd_770.csv';
-};
-object player {
-	name wd_671_771.csv;
-	file '../wd_files/wd_771.csv';
-};
-object player {
-	name wd_671_772.csv;
-	file '../wd_files/wd_772.csv';
-};
-object player {
-	name wd_671_773.csv;
-	file '../wd_files/wd_773.csv';
-};
-object player {
-	name wd_671_774.csv;
-	file '../wd_files/wd_774.csv';
-};
-object player {
-	name wd_671_775.csv;
-	file '../wd_files/wd_775.csv';
-};
-object player {
-	name wd_671_776.csv;
-	file '../wd_files/wd_776.csv';
-};
-object player {
-	name wd_671_777.csv;
-	file '../wd_files/wd_777.csv';
-};
-object player {
-	name wd_671_778.csv;
-	file '../wd_files/wd_778.csv';
-};
-object player {
-	name wd_671_779.csv;
-	file '../wd_files/wd_779.csv';
-};
-object player {
-	name wd_671_780.csv;
-	file '../wd_files/wd_780.csv';
-};
-object player {
-	name wd_671_781.csv;
-	file '../wd_files/wd_781.csv';
-};
-object player {
-	name wd_671_782.csv;
-	file '../wd_files/wd_782.csv';
-};
-object player {
-	name wd_671_783.csv;
-	file '../wd_files/wd_783.csv';
-};
-object player {
-	name wd_671_784.csv;
-	file '../wd_files/wd_784.csv';
-};
-object player {
-	name wd_671_785.csv;
-	file '../wd_files/wd_785.csv';
-};
-object player {
-	name wd_671_786.csv;
-	file '../wd_files/wd_786.csv';
-};
-object player {
-	name wd_671_787.csv;
-	file '../wd_files/wd_787.csv';
-};
-object player {
-	name wd_671_788.csv;
-	file '../wd_files/wd_788.csv';
-};
-object player {
-	name wd_671_789.csv;
-	file '../wd_files/wd_789.csv';
-};
-object player {
-	name wd_671_790.csv;
-	file '../wd_files/wd_790.csv';
-};
-object player {
-	name wd_671_791.csv;
-	file '../wd_files/wd_791.csv';
-};
-object player {
-	name wd_671_792.csv;
-	file '../wd_files/wd_792.csv';
-};
-object player {
-	name wd_671_793.csv;
-	file '../wd_files/wd_793.csv';
-};
-object player {
-	name wd_671_794.csv;
-	file '../wd_files/wd_794.csv';
-};
-object player {
-	name wd_671_795.csv;
-	file '../wd_files/wd_795.csv';
-};
-object player {
-	name wd_671_796.csv;
-	file '../wd_files/wd_796.csv';
-};
-object player {
-	name wd_671_797.csv;
-	file '../wd_files/wd_797.csv';
-};
-object player {
-	name wd_671_798.csv;
-	file '../wd_files/wd_798.csv';
-};
-object player {
-	name wd_671_799.csv;
-	file '../wd_files/wd_799.csv';
-};
-object player {
-	name wd_671_800.csv;
-	file '../wd_files/wd_800.csv';
-};
-object player {
-	name wd_671_801.csv;
-	file '../wd_files/wd_801.csv';
-};
-object player {
-	name wd_671_802.csv;
-	file '../wd_files/wd_802.csv';
-};
-object player {
-	name wd_671_803.csv;
-	file '../wd_files/wd_803.csv';
-};
-object player {
-	name wd_671_804.csv;
-	file '../wd_files/wd_804.csv';
-};
-object player {
-	name wd_671_805.csv;
-	file '../wd_files/wd_805.csv';
-};
-object player {
-	name wd_671_806.csv;
-	file '../wd_files/wd_806.csv';
-};
-object player {
-	name wd_671_807.csv;
-	file '../wd_files/wd_807.csv';
-};
-object player {
-	name wd_671_808.csv;
-	file '../wd_files/wd_808.csv';
-};
-object player {
-	name wd_671_809.csv;
-	file '../wd_files/wd_809.csv';
-};
-object player {
-	name wd_671_810.csv;
-	file '../wd_files/wd_810.csv';
-};
-object player {
-	name wd_671_811.csv;
-	file '../wd_files/wd_811.csv';
-};
-object player {
-	name wd_671_812.csv;
-	file '../wd_files/wd_812.csv';
-};
-object player {
-	name wd_671_813.csv;
-	file '../wd_files/wd_813.csv';
-};
-object player {
-	name wd_671_814.csv;
-	file '../wd_files/wd_814.csv';
-};
-object player {
-	name wd_671_815.csv;
-	file '../wd_files/wd_815.csv';
-};
-object player {
-	name wd_671_816.csv;
-	file '../wd_files/wd_816.csv';
-};
-object player {
-	name wd_671_817.csv;
-	file '../wd_files/wd_817.csv';
-};
-object player {
-	name wd_671_818.csv;
-	file '../wd_files/wd_818.csv';
-};
-object player {
-	name wd_671_819.csv;
-	file '../wd_files/wd_819.csv';
-};
-object player {
-	name wd_671_820.csv;
-	file '../wd_files/wd_820.csv';
-};
-object player {
-	name wd_671_821.csv;
-	file '../wd_files/wd_821.csv';
-};
-object player {
-	name wd_671_822.csv;
-	file '../wd_files/wd_822.csv';
-};
-object player {
-	name wd_671_823.csv;
-	file '../wd_files/wd_823.csv';
-};
-object player {
-	name wd_671_824.csv;
-	file '../wd_files/wd_824.csv';
-};
-object player {
-	name wd_671_825.csv;
-	file '../wd_files/wd_825.csv';
-};
-object player {
-	name wd_671_826.csv;
-	file '../wd_files/wd_826.csv';
-};
-object player {
-	name wd_671_827.csv;
-	file '../wd_files/wd_827.csv';
-};
-object player {
-	name wd_671_828.csv;
-	file '../wd_files/wd_828.csv';
-};
-object player {
-	name wd_671_829.csv;
-	file '../wd_files/wd_829.csv';
-};
-object player {
-	name wd_671_830.csv;
-	file '../wd_files/wd_830.csv';
-};
-object player {
-	name wd_671_831.csv;
-	file '../wd_files/wd_831.csv';
-};
-object player {
-	name wd_671_832.csv;
-	file '../wd_files/wd_832.csv';
-};
-object player {
-	name wd_671_833.csv;
-	file '../wd_files/wd_833.csv';
-};
-object player {
-	name wd_671_834.csv;
-	file '../wd_files/wd_834.csv';
-};
-object player {
-	name wd_671_835.csv;
-	file '../wd_files/wd_835.csv';
-};
-object player {
-	name wd_671_836.csv;
-	file '../wd_files/wd_836.csv';
-};
-object player {
-	name wd_671_837.csv;
-	file '../wd_files/wd_837.csv';
-};
-object player {
-	name wd_671_838.csv;
-	file '../wd_files/wd_838.csv';
-};
-object player {
-	name wd_671_839.csv;
-	file '../wd_files/wd_839.csv';
-};
-object player {
-	name wd_671_840.csv;
-	file '../wd_files/wd_840.csv';
-};
-object player {
-	name wd_680_841.csv;
-	file '../wd_files/wd_841.csv';
-};
-object player {
-	name wd_680_842.csv;
-	file '../wd_files/wd_842.csv';
-};
-object player {
-	name wd_680_843.csv;
-	file '../wd_files/wd_843.csv';
-};
-object player {
-	name wd_680_844.csv;
-	file '../wd_files/wd_844.csv';
-};
-object player {
-	name wd_680_845.csv;
-	file '../wd_files/wd_845.csv';
-};
-object player {
-	name wd_680_846.csv;
-	file '../wd_files/wd_846.csv';
-};
-object player {
-	name wd_680_847.csv;
-	file '../wd_files/wd_847.csv';
-};
-object player {
-	name wd_680_848.csv;
-	file '../wd_files/wd_848.csv';
-};
-object player {
-	name wd_680_849.csv;
-	file '../wd_files/wd_849.csv';
-};
-object player {
-	name wd_680_850.csv;
-	file '../wd_files/wd_850.csv';
-};
-object player {
-	name wd_680_851.csv;
-	file '../wd_files/wd_851.csv';
-};
-object player {
-	name wd_680_852.csv;
-	file '../wd_files/wd_852.csv';
-};
-object player {
-	name wd_680_853.csv;
-	file '../wd_files/wd_853.csv';
-};
-object player {
-	name wd_680_854.csv;
-	file '../wd_files/wd_854.csv';
-};
-object player {
-	name wd_680_855.csv;
-	file '../wd_files/wd_855.csv';
-};
-object player {
-	name wd_680_856.csv;
-	file '../wd_files/wd_856.csv';
-};
-object player {
-	name wd_680_857.csv;
-	file '../wd_files/wd_857.csv';
-};
-object player {
-	name wd_680_858.csv;
-	file '../wd_files/wd_858.csv';
-};
-object player {
-	name wd_680_859.csv;
-	file '../wd_files/wd_859.csv';
-};
-object player {
-	name wd_680_860.csv;
-	file '../wd_files/wd_860.csv';
-};
-object player {
-	name wd_680_861.csv;
-	file '../wd_files/wd_861.csv';
-};
-object player {
-	name wd_680_862.csv;
-	file '../wd_files/wd_862.csv';
-};
-object player {
-	name wd_680_863.csv;
-	file '../wd_files/wd_863.csv';
-};
-object player {
-	name wd_680_864.csv;
-	file '../wd_files/wd_864.csv';
-};
-object player {
-	name wd_680_865.csv;
-	file '../wd_files/wd_865.csv';
-};
-object player {
-	name wd_680_866.csv;
-	file '../wd_files/wd_866.csv';
-};
-object player {
-	name wd_680_867.csv;
-	file '../wd_files/wd_867.csv';
-};
-object player {
-	name wd_680_868.csv;
-	file '../wd_files/wd_868.csv';
-};
-object player {
-	name wd_680_869.csv;
-	file '../wd_files/wd_869.csv';
-};
-object player {
-	name wd_680_870.csv;
-	file '../wd_files/wd_870.csv';
-};
-object player {
-	name wd_680_871.csv;
-	file '../wd_files/wd_871.csv';
-};
-object player {
-	name wd_680_872.csv;
-	file '../wd_files/wd_872.csv';
-};
-object player {
-	name wd_680_873.csv;
-	file '../wd_files/wd_873.csv';
-};
-object player {
-	name wd_680_874.csv;
-	file '../wd_files/wd_874.csv';
-};
-object player {
-	name wd_680_875.csv;
-	file '../wd_files/wd_875.csv';
-};
-object player {
-	name wd_680_876.csv;
-	file '../wd_files/wd_876.csv';
-};
-object player {
-	name wd_680_877.csv;
-	file '../wd_files/wd_877.csv';
-};
-object player {
-	name wd_680_878.csv;
-	file '../wd_files/wd_878.csv';
-};
-object player {
-	name wd_680_879.csv;
-	file '../wd_files/wd_879.csv';
-};
-object player {
-	name wd_680_880.csv;
-	file '../wd_files/wd_880.csv';
-};
-object player {
-	name wd_680_881.csv;
-	file '../wd_files/wd_881.csv';
-};
-object player {
-	name wd_680_882.csv;
-	file '../wd_files/wd_882.csv';
-};
-object player {
-	name wd_680_883.csv;
-	file '../wd_files/wd_883.csv';
-};
-object player {
-	name wd_680_884.csv;
-	file '../wd_files/wd_884.csv';
-};
-object player {
-	name wd_680_885.csv;
-	file '../wd_files/wd_885.csv';
-};
-object player {
-	name wd_680_886.csv;
-	file '../wd_files/wd_886.csv';
-};
-object player {
-	name wd_680_887.csv;
-	file '../wd_files/wd_887.csv';
-};
-object player {
-	name wd_680_888.csv;
-	file '../wd_files/wd_888.csv';
-};
-object player {
-	name wd_680_889.csv;
-	file '../wd_files/wd_889.csv';
-};
-object player {
-	name wd_680_890.csv;
-	file '../wd_files/wd_890.csv';
-};
-object player {
-	name wd_680_891.csv;
-	file '../wd_files/wd_891.csv';
-};
-object player {
-	name wd_680_892.csv;
-	file '../wd_files/wd_892.csv';
-};
-object player {
-	name wd_680_893.csv;
-	file '../wd_files/wd_893.csv';
-};
-object player {
-	name wd_680_894.csv;
-	file '../wd_files/wd_894.csv';
-};
-object player {
-	name wd_680_895.csv;
-	file '../wd_files/wd_895.csv';
-};
-object player {
-	name wd_680_896.csv;
-	file '../wd_files/wd_896.csv';
-};
-object player {
-	name wd_680_897.csv;
-	file '../wd_files/wd_897.csv';
-};
-object player {
-	name wd_680_898.csv;
-	file '../wd_files/wd_898.csv';
-};
-object player {
-	name wd_680_899.csv;
-	file '../wd_files/wd_899.csv';
-};
-object player {
-	name wd_680_900.csv;
-	file '../wd_files/wd_900.csv';
-};
-object player {
-	name wd_680_901.csv;
-	file '../wd_files/wd_901.csv';
-};
-object player {
-	name wd_680_902.csv;
-	file '../wd_files/wd_902.csv';
-};
-object player {
-	name wd_680_903.csv;
-	file '../wd_files/wd_903.csv';
-};
-object player {
-	name wd_680_904.csv;
-	file '../wd_files/wd_904.csv';
-};
-object player {
-	name wd_680_905.csv;
-	file '../wd_files/wd_905.csv';
-};
-object player {
-	name wd_680_906.csv;
-	file '../wd_files/wd_906.csv';
-};
-object player {
-	name wd_680_907.csv;
-	file '../wd_files/wd_907.csv';
-};
-object player {
-	name wd_680_908.csv;
-	file '../wd_files/wd_908.csv';
-};
-object player {
-	name wd_680_909.csv;
-	file '../wd_files/wd_909.csv';
-};
-object player {
-	name wd_680_910.csv;
-	file '../wd_files/wd_910.csv';
-};
-object player {
-	name wd_680_911.csv;
-	file '../wd_files/wd_911.csv';
-};
-object player {
-	name wd_680_912.csv;
-	file '../wd_files/wd_912.csv';
-};
-object player {
-	name wd_680_913.csv;
-	file '../wd_files/wd_913.csv';
-};
-object player {
-	name wd_680_914.csv;
-	file '../wd_files/wd_914.csv';
-};
-object player {
-	name wd_680_915.csv;
-	file '../wd_files/wd_915.csv';
-};
-object player {
-	name wd_680_916.csv;
-	file '../wd_files/wd_916.csv';
-};
-object player {
-	name wd_680_917.csv;
-	file '../wd_files/wd_917.csv';
-};
-object player {
-	name wd_680_918.csv;
-	file '../wd_files/wd_918.csv';
-};
-object player {
-	name wd_680_919.csv;
-	file '../wd_files/wd_919.csv';
-};
-object player {
-	name wd_680_920.csv;
-	file '../wd_files/wd_920.csv';
-};
-object player {
-	name wd_680_921.csv;
-	file '../wd_files/wd_921.csv';
-};
-object player {
-	name wd_680_922.csv;
-	file '../wd_files/wd_922.csv';
-};
-object player {
-	name wd_680_923.csv;
-	file '../wd_files/wd_923.csv';
-};
-object player {
-	name wd_680_924.csv;
-	file '../wd_files/wd_924.csv';
-};
-object player {
-	name wd_680_925.csv;
-	file '../wd_files/wd_925.csv';
-};
-object player {
-	name wd_680_926.csv;
-	file '../wd_files/wd_926.csv';
-};
-object player {
-	name wd_680_927.csv;
-	file '../wd_files/wd_927.csv';
-};
-object player {
-	name wd_680_928.csv;
-	file '../wd_files/wd_928.csv';
-};
-object player {
-	name wd_680_929.csv;
-	file '../wd_files/wd_929.csv';
-};
-object player {
-	name wd_680_930.csv;
-	file '../wd_files/wd_930.csv';
-};
-object player {
-	name wd_680_931.csv;
-	file '../wd_files/wd_931.csv';
-};
-object player {
-	name wd_680_932.csv;
-	file '../wd_files/wd_932.csv';
-};
-object player {
-	name wd_680_933.csv;
-	file '../wd_files/wd_933.csv';
-};
-object player {
-	name wd_680_934.csv;
-	file '../wd_files/wd_934.csv';
-};
-object player {
-	name wd_680_935.csv;
-	file '../wd_files/wd_935.csv';
-};
-object player {
-	name wd_680_936.csv;
-	file '../wd_files/wd_936.csv';
-};
-object player {
-	name wd_680_937.csv;
-	file '../wd_files/wd_937.csv';
-};
-object player {
-	name wd_680_938.csv;
-	file '../wd_files/wd_938.csv';
-};
-object player {
-	name wd_680_939.csv;
-	file '../wd_files/wd_939.csv';
-};
-object player {
-	name wd_680_940.csv;
-	file '../wd_files/wd_940.csv';
-};
-object player {
-	name wd_680_941.csv;
-	file '../wd_files/wd_941.csv';
-};
-object player {
-	name wd_680_942.csv;
-	file '../wd_files/wd_942.csv';
-};
-object player {
-	name wd_680_943.csv;
-	file '../wd_files/wd_943.csv';
-};
-object player {
-	name wd_680_944.csv;
-	file '../wd_files/wd_944.csv';
-};
-object player {
-	name wd_680_945.csv;
-	file '../wd_files/wd_945.csv';
-};
-object player {
-	name wd_680_946.csv;
-	file '../wd_files/wd_946.csv';
-};
-object player {
-	name wd_680_947.csv;
-	file '../wd_files/wd_947.csv';
-};
-object player {
-	name wd_680_948.csv;
-	file '../wd_files/wd_948.csv';
-};
-object player {
-	name wd_680_949.csv;
-	file '../wd_files/wd_949.csv';
-};
-object player {
-	name wd_680_950.csv;
-	file '../wd_files/wd_950.csv';
-};
-object player {
-	name wd_680_951.csv;
-	file '../wd_files/wd_951.csv';
-};
-object player {
-	name wd_680_952.csv;
-	file '../wd_files/wd_952.csv';
-};
-object player {
-	name wd_680_953.csv;
-	file '../wd_files/wd_953.csv';
-};
-object player {
-	name wd_680_954.csv;
-	file '../wd_files/wd_954.csv';
-};
-object player {
-	name wd_680_955.csv;
-	file '../wd_files/wd_955.csv';
-};
-object player {
-	name wd_680_956.csv;
-	file '../wd_files/wd_956.csv';
-};
-object player {
-	name wd_680_957.csv;
-	file '../wd_files/wd_957.csv';
-};
-object player {
-	name wd_680_958.csv;
-	file '../wd_files/wd_958.csv';
-};
-object player {
-	name wd_680_959.csv;
-	file '../wd_files/wd_959.csv';
-};
-object player {
-	name wd_680_960.csv;
-	file '../wd_files/wd_960.csv';
 };
