@@ -256,7 +256,7 @@ object player {
 };
 object player {
 	name wd_611_65;
-	file '../wd_files/wd_65.csv';
+	file '../wd_files/wd_65.csv' '../wd_files/wd_66.csv' '../wd_files/wd_67.csv';
 };
 object player {
 	name wd_611_66;

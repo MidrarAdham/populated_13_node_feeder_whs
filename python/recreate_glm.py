@@ -25,7 +25,9 @@ def wr_files(data):
         json.dump(data,f, indent=4)
     os.system('json2glm -p gld_basecase.json > test.glm')
 
-def main():
-    data = create_players()
-    wr_files(data)
-main()
+# def main():
+#     data = create_players()
+#     wr_files(data)
+# main()
+
+import gridlabd
