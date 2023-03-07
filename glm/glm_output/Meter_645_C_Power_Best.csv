@@ -1,0 +1,9 @@
+# file...... ./glm_output/Meter_645_C_Power_Best.csv
+# date...... Mon Mar  6 13:41:38 2023
+# user...... deras
+# host...... (null)
+# trigger... (none)
+# interval.. 900
+# limit..... 0
+# timestamp,meter_645_C:measured_voltage_C,xfmr_meter_645_C_1:voltage_C,xfmr_meter_645_C_2:voltage_C,xfmr_meter_645_C_3:voltage_C,xfmr_meter_645_C_4:voltage_C,xfmr_meter_645_C_5:voltage_C
+2021-12-25 00:00:00 UTC,-1198.03+2080.66j,-1198.03+2080.66j,-1198.03+2080.66j,-1198.03+2080.66j,-1198.02+2080.66j,-1198.02+2080.66j

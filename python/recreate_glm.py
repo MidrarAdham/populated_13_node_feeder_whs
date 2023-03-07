@@ -29,5 +29,3 @@ def wr_files(data):
 #     data = create_players()
 #     wr_files(data)
 # main()
-
-import gridlabd

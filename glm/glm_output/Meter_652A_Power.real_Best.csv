@@ -1,0 +1,9 @@
+# file...... ./glm_output/Meter_652A_Power.real_Best.csv
+# date...... Mon Mar  6 13:41:38 2023
+# user...... deras
+# host...... (null)
+# trigger... (none)
+# interval.. 900
+# limit..... 0
+# timestamp,meter_652_A:measured_real_power,xfmr_meter_652_A_1:measured_real_power,xfmr_meter_652_A_2:measured_real_power,xfmr_meter_652_A_3:measured_real_power,xfmr_meter_652_A_4:measured_real_power,xfmr_meter_652_A_5:measured_real_power
+2021-12-25 00:00:00 UTC,+8970.28,+4485.13,+9.97255e-05,+9.97255e-05,+9.97255e-05,+4485.13
