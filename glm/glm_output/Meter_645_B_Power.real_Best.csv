@@ -1,9 +1,0 @@
-# file...... ./glm_output/Meter_645_B_Power.real_Best.csv
-# date...... Mon Mar  6 13:41:38 2023
-# user...... deras
-# host...... (null)
-# trigger... (none)
-# interval.. 900
-# limit..... 0
-# timestamp,meter_645_B:measured_real_power,xfmr_meter_645_B_1:measured_real_power,xfmr_meter_645_B_2:measured_real_power,xfmr_meter_645_B_3:measured_real_power,xfmr_meter_645_B_4:measured_real_power,xfmr_meter_645_B_5:measured_real_power
-2021-12-25 00:00:00 UTC,+8992.86,+9.99765e-05,+9.99765e-05,+4496.42,+4496.42,+9.99765e-05
